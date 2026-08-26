@@ -35,4 +35,4 @@
    - **Cooling and Crystallization:** As the magma/lava cools, minerals begin to crystallize and interlock, forming a solid rock.
    - **Rate of Cooling Determines Texture:** Slow cooling deep within the crust allows large crystals to form (coarse-grained, e.g., Granite). Rapid cooling on the surface results in small crystals or a glassy texture (fine-grained, e.g., Basalt).
 7. Conclusion
-   - Primary rocks are the fundamental building blocks of the Earth's crust, forming the parent material for other rock types and the soils that sustain agriculture. Their distribution dictates the location of key mineral resources and influences regional economic activities, making them a cornerstone of physical and economic geography.
+   - Primary rocks are the fundamental building blocks of the Earth's crust, forming the parent material for other rock types and the soils that sustain agriculture.

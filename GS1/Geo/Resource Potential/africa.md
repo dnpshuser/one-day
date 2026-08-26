@@ -8,12 +8,46 @@
 7. Conclusion
  
 1. Intro
-	- Africa's vast resource base, young population and expanding markets make it central to India's resource security and Global South partnership.
+	- Endowed with vast critical minerals and renewables, Africa stands as the indispensable frontier for global green transitions and industrial value chains.
 2. What all resources found in Africa
-	1. **Energy:** Oil and gas in Nigeria, Libya, Algeria and Angola; hydropower in the Congo and Nile basins; solar and wind across the Sahara and southern Africa.
-	2. **Minerals:** Cobalt and copper in the Democratic Republic of Congo and Zambia; platinum in South Africa and Zimbabwe; lithium in Zimbabwe and Namibia; manganese in South Africa and Gabon; uranium in Niger and Namibia; bauxite in Guinea.
-	3. **Agriculture:** Arable land, cocoa, coffee, cotton, pulses, cashew and horticultural products.
-	4. **Marine resources:** Fisheries, offshore hydrocarbons and blue-economy opportunities along Atlantic and Indian Ocean coasts.
+	1. **Energy:** 
+   	1. Oil and gas in 
+      	1. Nigeria, 
+      	2. Libya, 
+      	3. Algeria and 
+      	4. Angola; 
+   	2. hydropower in the 
+      	1. Congo and 
+      	2. Nile basins; 
+   	3. solar and wind across the 
+      	1. Sahara and 
+      	2. southern Africa.
+	2. **Minerals:** 
+   	1. Cobalt and copper 
+      	1. Democratic Republic of Congo 
+      	2. Zambia; 
+   	2. platinum in 
+      	1. South Africa and Zimbabwe; 
+   	3. lithium in 
+      	1. Zimbabwe and 
+      	2. Namibia; 
+   	4. manganese in 
+      	1. South Africa and 
+      	2. Gabon; 
+   	5. uranium in 
+      	1. Niger and Namibia; 
+   	6. bauxite in Guinea.
+	3. **Agriculture:** 
+   	1. Arable land, 
+   	2. cocoa, coffee, 
+   	3. cotton, 
+   	4. pulses, 
+   	5. cashew and 
+   	6. horticultural products.
+	4. **Marine resources:** 
+   	1. Fisheries, 
+   	2. offshore hydrocarbons and 
+   	3. blue-economy opportunities along Atlantic and Indian Ocean coasts.
 3. India's interest
 	1. Diversify crude oil, LNG, uranium, critical minerals and fertiliser supplies.
 	2. Secure inputs for electric vehicles, batteries, semiconductors and renewable technologies.
@@ -24,13 +58,20 @@
 	2. India has supplied vaccines, medicines, digital-public-infrastructure expertise, agricultural technology and defence training.
 	3. The African Union joined the G20 as a permanent member in 2023. **Source: G20 New Delhi Leaders' Declaration, 2023.**
 5. scope for enhanced partnership and trade
-	1. Move from raw-material imports to joint exploration, processing and local value addition.
-	2. Build resilient port, digital and transport connectivity.
-	3. Expand solar mini-grids, climate-resilient agriculture, telemedicine and skilling.
-	4. Support transparent, sustainable mining with community consent and environmental safeguards.
+	1. Move from raw-material imports -> joint exploration, processing and local value addition.
+	2. Build resilient port, 
+	3. digital and transport connectivity.
+	4. Expand solar mini-grids, 
+	5. climate-resilient agriculture, 
+	6. telemedicine 
+	7. skilling.
+	8. Support transparent, sustainable mining with community consent and environmental safeguards.
 6. Competition on resource potential with other countries
-	1. China has a strong position in infrastructure finance, mining and critical-mineral supply chains.
+	1. China has a strong position in 
+   	1. infrastructure finance, 
+   	2. mining and 
+   	3. critical-mineral supply chains.
 	2. The EU, United States, Russia, Türkiye and Gulf countries compete in energy, defence, ports and minerals.
 	3. India's advantages are affordable technology, diaspora links and a non-extractive partnership model; project execution and financing speed need improvement.
 7. Conclusion
-	- A value-adding, locally owned and climate-sensitive India-Africa partnership can convert resource complementarity into shared prosperity and Global South resilience.
+	- Unlocking Africa's potential requires pivoting from raw extraction to in-situ value addition, anchoring equitable growth, resource sovereignty, and sustainable industrialization strenghtening Global South resilience.

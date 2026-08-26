@@ -6,7 +6,7 @@
 5. Conclusion
  
 1. Intro
-	- The Deccan Trap, one of the world's largest continental flood-basalt provinces, is a geological archive and a major base for soils, groundwater, minerals and livelihoods.
+	- Formed by massive Cretaceous fissure volcanism, the Deccan Traps underpin peninsular India's geology, yielding fertile black soils and vital mineral wealth.
 2. What all resources available in deccan trap ?
 	1. **Black soil:** Weathering of basalt produces moisture-retentive regur, suited to cotton, soybean, pulses and oilseeds.
 	2. **Groundwater:** Vesicular and fractured basalt layers form aquifers, though storage is discontinuous and localised.

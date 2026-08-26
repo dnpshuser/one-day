@@ -13,8 +13,7 @@
 ---
 
 1. Introduction
-   - Seismic waves are waves of energy that travel through the Earth's layers, resulting from earthquakes, volcanic eruptions, or large man-made explosions.
-   - They are the primary tool used by seismologists to study the Earth's interior structure, composition, and physical state.
+   - Seismic waves are energy in the form of waves travelling through the Earth's interior, resulting from earthquakes, volcanic eruptions, or large man-made explosions. They are the primary tool used by seismologists to study the Earth's interior structure, composition, and physical state.
 
 2. P-Waves (Primary Waves)
    - **Nature:** Longitudinal or compressional waves where particles oscillate parallel to the direction of wave propagation.
@@ -59,4 +58,4 @@
      - **Public Awareness & Drills:** Educating communities on safety protocols (e.g., "Drop, Cover, and Hold On").
 
 8. Conclusion
-   - Seismic waves are not only destructive forces of nature but also invaluable scientific tools that have unveiled the layered structure of our planet. Understanding their behavior is fundamental for both advancing geoscience and developing effective disaster mitigation strategies to build resilient communities and save lives.
+   - Seismic waves are not only destructive forces of nature but also invaluable scientific tools that have unveiled the layered structure of our planet.

@@ -7,8 +7,7 @@
 ---
 
 1. Intro
-   - A water mass is a large, identifiable body of ocean water with a distinct and uniform range of temperature and salinity, acquired while it was at the ocean surface in a particular region.
-   - Once formed, these water masses sink and move through the deep ocean, retaining their characteristics for long distances and acting as tracers for ocean circulation.
+   - A water mass is a large, identifiable body of ocean water with a distinct and uniform range of temperature and salinity, acting as tracers for ocean circulation.
 
 2. Role in marine life
    - **Nutrient Distribution:** Deep water masses, like the Antarctic Bottom Water (AABW), are rich in nutrients (silicates, phosphates). As they slowly move and mix, they supply these essential nutrients to the upper ocean, fueling primary productivity.
@@ -21,5 +20,4 @@
    - **Influence on Weather:** The temperature of coastal water masses can affect local weather phenomena, such as the formation of sea breezes and coastal fog.
 
 4. Conclusion
-   - Water masses are the fundamental components of the ocean's circulatory system, acting as massive reservoirs and transporters of heat, salt, oxygen, and nutrients. Their formation and movement are integral to regulating global climate and sustaining marine biodiversity, making them a critical area of study in oceanography and climate science.
----
+   - Water masses are the fundamental components of oceanography, acting as massive reservoirs and transporters of heat, salt, oxygen, and nutrients.

@@ -9,16 +9,16 @@
 
 1. Intro
    - Salinity is the measure of the total concentration of dissolved salts in seawater, typically expressed in parts per thousand (ppt or ‰).
-   - While the global average ocean salinity is about 35‰, it varies significantly across different regions due to various climatic and geographical factors.
+   - global average ocean salinity is about 35‰.
 
 2. Variation in global ocean salinity
    - **Factors Increasing Salinity:**
-     - **Evaporation:** Removes freshwater, leaving salts behind. Highest in subtropical regions with clear skies and high temperatures.
-     - **Formation of Sea Ice:** When seawater freezes, salt is excluded, increasing the salinity of the remaining water.
+     - **Evaporation:** ∝
+     - **Formation of Sea Ice:** ∝
    - **Factors Decreasing Salinity:**
-     - **Precipitation:** Adds freshwater directly to the ocean surface.
-     - **River Runoff:** Discharge of freshwater from rivers dilutes coastal waters.
-     - **Melting of Ice:** Melting of glaciers, icebergs, and sea ice adds freshwater.
+     - **Precipitation:** 1/∝
+     - **River Runoff:** 1/∝
+     - **Melting of Ice:** 1/∝
    - **Latitudinal Variation:** Salinity is generally low at the equator (high rainfall), high in the subtropics (high evaporation), and low again in polar regions (ice melt).
 
 3. Order of salinity in oceans and seas
@@ -33,4 +33,4 @@
    - **Creates Halocline:** A sharp vertical gradient in salinity, which can act as a barrier to mixing between water layers, affecting nutrient and oxygen distribution.
 
 5. Conclusion
-   - Salinity is a fundamental property of seawater that plays a crucial role in driving global ocean circulation and shaping marine ecosystems. Variations in salinity serve as a key indicator of the planet's water cycle, and its long-term changes are closely monitored as a signal of climate change's impact on precipitation, evaporation, and ice melt.
+   - Salinity is a fundamental property of seawater that plays a crucial role in driving global ocean circulation and shaping marine ecosystems.

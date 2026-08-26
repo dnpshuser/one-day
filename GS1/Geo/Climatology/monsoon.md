@@ -19,15 +19,15 @@
 2. Mechanism
    1. Differential Heating:
    2. Pressure Gradient:
-   3. Wind Reversal:
-   4. Moisture Pickup:
-   5. Orographic Lift -> Rainfall.
+   3. Moisture Pickup:
+   4. Orographic Lift -> Rainfall.
+   5. Wind Reversal:
    6. Return Flow:
 3. Characteristics
    1. Onset: Kerala around 1 June; reaches J&K by July.Advance: 
    2. Arabian Sea branch (faster); Bay of Bengal branch (slower).
    3. Retreat: Begins from NW India in Sept; withdraws from S Peninsula by Dec.
-   4. Rainfall Distribution: ~ 75 of annual rainfall received during SW monsoon.
+   4. Rainfall Distribution: ~75 of annual rainfall received during SW monsoon.
    5. Variability: Inter-annual variability affects agriculture & economy.
 4. Significance
    1. ~ 50 % cropped area depends directly on monsoon. - Economic survey 2024-25.
@@ -40,7 +40,7 @@
    2. Extreme events: cloudburst, flood, landslides, cyclone
    3. Droughts
    4. Urban flooding
-   5. Dependence
+   5. agri dependence
 6. places of impact in India and globally
    1. Regions:
       1. South-Asian Monsoon
@@ -66,7 +66,7 @@
          4. Somalia
       5. North American Monsoon
       6. South American Monsoon
-8. Effect and impact
+7. Effect and impact
    1. cultural impact
       1. Literature
          1. Meghaduta - Kalidasa
@@ -87,10 +87,10 @@
       3. Water availability
       4. Agriculture
       5. Urban flooding
-9. Changes in pattern and cause
+8. Changes in pattern and cause
    1. Rising Temperatures: Warmer oceans -> more evaporation -> heavier rainfall events.Extreme rainfall in India (2013 Uttarakhand floods).
    2. Changing Circulation Shift in Hadley cell, jet streams -> altered monsoon patterns.Weakening of monsoon in some years.
    3. Ocean WarmingWarmer Indian Ocean -> more moisture but also more cyclones.Cyclone Tauktae (2021).
    4. Glacier Retreat Affects water flows and long-term water availability. Himalayan glacier loss.
-10. Conclusion
+9.  Conclusion
     - Monsoon is the lifeline of India which enables sustaining agriculture, water, economy, and ecosystems. Understanding its mechanism, variability, and changing behaviour is crucial for a climate-resilient future.

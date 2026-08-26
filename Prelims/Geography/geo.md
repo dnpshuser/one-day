@@ -1,0 +1,1 @@
+1. A gyre is a large system of rotating ocean currents connected to global wind patterns and Earth's rotation.

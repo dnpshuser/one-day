@@ -8,7 +8,8 @@
 7. Conclusion
  
 1. Intro
-	- Soil is the living foundation of India's food security, biodiversity and rural economy, but its slow formation makes degradation an intergenerational threat.
+	- "माता भूमिः पुत्रोऽहं पृथिव्याः।" — अथर्ववेद (भूमि सूक्त, १२.१.१२)
+	- (Earth is my mother, and I am her child.)
 2. soil distribution in India
 	1. **Alluvial:** Indo-Gangetic and coastal plains; rice, wheat, sugarcane, jute and pulses.
 	2. **Black:** Deccan plateau; clayey, moisture-retentive and suited to cotton, soybean and pulses.
@@ -34,4 +35,4 @@
 	2. Pradhan Mantri Krishi Sinchayee Yojana: irrigation expansion and water-use efficiency.
 	3. National Mission for Sustainable Agriculture and Paramparagat Krishi Vikas Yojana: climate-resilient and ecological farming.
 7. Conclusion
-	- Regenerative farming, precise inputs and watershed stewardship can secure food, farmer incomes and soil-based climate resilience.
+	- Anchoring land restoration through regenerative agriculture and soil carbon enrichment is vital to combating desertification and securing SDG 15 (Life on Land).

@@ -1,0 +1,1 @@
+1. *Operation Black Hawk*, seizing total 18.64 kg crude heroin in back-to-back operations near Lucknow (U.P.).

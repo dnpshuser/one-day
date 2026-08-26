@@ -8,8 +8,7 @@
 ---
 
 1. Introduction
-   - The Ring of Fire is a major area in the basin of the Pacific Ocean where a large number of earthquakes and volcanic eruptions occur.
-   - It is a 40,000-kilometer, horseshoe-shaped belt of intense tectonic activity, tracing the margins of the Pacific Plate and other smaller plates.
+   - Ring of fire is a 40,000-kilometer long, horseshoe-shaped belt of intense tectonic activity, tracing the margins of the Pacific Plate.
 
 2. Characteristics
    - **High Volcanic Activity:** Home to over 450 volcanoes, which is approximately 75% of the world's active and dormant volcanoes.
@@ -37,4 +36,4 @@
      - **Mineral Deposits:** Plate tectonic processes concentrate valuable minerals, creating rich deposits of copper, gold, silver, and other metals.
 
 5. Conclusion
-   - The Ring of Fire is a dynamic and powerful manifestation of plate tectonics, shaping the Earth's geography while posing immense natural hazards. For the millions living in its shadow, it necessitates a dual approach: harnessing its resources like geothermal energy and fertile land, while simultaneously investing in robust early warning systems, resilient infrastructure, and international cooperation for disaster management.
+   - The Ring of Fire is a dynamic and powerful manifestation of plate tectonics, shaping the Earth's geography.
