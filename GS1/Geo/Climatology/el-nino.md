@@ -47,6 +47,8 @@
    7. Extreme Events: 
       1. More floods in some regions (E. Pacific), droughts in others, stronger cyclones in Pacific.
       2. Example: Increased Atlantic hurricane activity during El Niño.
+   8. Walker circulation breakdown
+   9. Global temp spikes
 
 4. OTHER SIMILAR PHENOMENA GLOBALLY
    1. La Niña (Cold Phase of ENSO)Opposite of El Niño (cooler SST in central/eastern Pacific)Strengthens trade winds and Indian monsoon.

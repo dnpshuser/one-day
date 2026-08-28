@@ -188,11 +188,14 @@
    6. Conclusion
 7. Geothermal Energy
    1. Intro
-   2. India's progress: data
-   3. Benefits
-   4. Challenges
-   5. Key govt initiatives
-   6. Conclusion
+   2. How geothermal energy converted into electricity ?
+   3. India's progress till now: data
+   4. Major plant location
+   5. Ongoing plans-targets
+   6. Benefits
+   7. Challenges
+   8. Key govt initiatives
+   9. Conclusion
 
 
 ### Natural Resource Potential

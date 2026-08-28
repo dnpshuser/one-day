@@ -22,3 +22,6 @@
 22. pumped-storage plants
 23. Shale gas industry and processing
 24. Solar energy evolution
+25. why hot water is required to generate electricity, turbine can move with cold water also
+26. elec through dam
+27. what happens to the extra power generated when city doesn't completely uses it fully.

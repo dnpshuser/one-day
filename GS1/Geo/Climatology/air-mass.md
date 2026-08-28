@@ -38,5 +38,8 @@
    3. Atmospheric influence: dry subsiding airmasses(cT, cP) yield anticyclonic, stable and couldless skies.
    4. Aridity: Stable descending cT air masses sustain global subtropical high pressure deserts
       1. eg: Sahara, Atacama, Great Australian Desert
+   5. Global heat transport from tropics to polar
+   6. Cold waves polar outbreaks
+   7. mT drives monsoon
 
 7. Conclusion: Air masses are moving reservoir of heat and moisture, making their tracking indispensable for agriculture and water management and climate-resilient planning.

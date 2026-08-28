@@ -1,0 +1,44 @@
+### Regenerative Agriculture
+- Def: A farming approach to heal the land by actively improving soil health and ecosystem.
+- involved steps
+  - soil health
+  - green manuring and mulching
+  - carbon sequestration
+  - Microirrigation
+  - Natural farming
+  - Soil Health
+  - Agro forestry
+  - Farm mechanization
+  - integrated farming(waste or by-products from one production process become the useful input for another)
+- Need for regenerative agriculture
+  - prospective high input cost due to soil degradation
+  - declining soil health
+  - climate vulnerability
+  - SDG-13(Climate Action)
+- Schemes
+  - National Mission on Natural Farming
+    - Launched: 2024
+    - aim: 
+      - financial incentives, capacity building and bio inputs to promote transition to natural farming
+      - output based incentives
+        - Rs 4000 per acre per year for 2 year
+        - Rs 10,000 for Bio input resource centre for inputs like jeevamrit, beejamrit
+  - Paramparagat Krishi Vikash Yojana
+    - 2015
+    - aim: to promote organic farming through eco-friendly practices, org certification and market linkages
+    - incetive: 31,500 per hectare over 3 year
+  - Per Drop more crop
+    - 2015-16
+    - drip and sprinkler irrigation
+    - financial assistance: 
+      - 55% to small and marginal farmers, 
+      - 45% to other farmers
+  - Rainfed Area Development Program
+    - 2014-15
+    - promote integrated farming system through area based cluster approach
+    - inc: Rs 30K per family for adopting IFS
+      - Rs 10K per cluster
+  - Soil Health Card Scheme
+    - 2015
+    - provides scientific soil test reports
+    - 12 parameters test
