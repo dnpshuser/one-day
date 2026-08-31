@@ -30,14 +30,15 @@
 
 5. effect and impact
    1. Benefits
-      1. Protects crops and vegetation: Shields plants from severe frost by trapping warmer air above.Example: Orchards in valleys during winter.
-      2. Aviation & Astronomy: Provides stable atmospheric conditions useful for flights and astronomical observations.Example: Clear skies for astronomical observations above the inversion layer.
-      3. Snow preservation: Helps in maintaining snow cover in mountains by reducing vertical mixing of air.
+      1. Aviation: Stable atmosphere for flights.
+      2. Clear skies for astronomical observation above the inversion layer.
+      3. Snow preservation in mountains:
    2. Problems
-      1. Pollution entrapment: Traps air pollutants near the surface -> Poor air quality, smog, and severe health issues.
-         1. Example: Smog episodes in Delhi (especially in winter).
-      2. Respiratory hazards: Increases risk of respiratory diseases (asthma, bronchitis).Data: WHO (2023) estimates $\sim 99\%$ of the global population breathes air exceeding WHO air quality guidelines.
-      3. Reduced visibility: Affects transport systems (road, air, rail).Example: Fog + inversion in Indo-Gangetic Plains.
-      4. Vertical dispersion blockage: Hinders vertical dispersion of smoke, fog, and moisture.
+      1. Pollution entrapment restricting vertical dispersion. Delhi in winter
+      2. Respiratory hazards: asthma, bronchitis
+      3. Reduced visibility -> transport disruption
+   3. other effects/impacts
+      1. fog, smog, frost, and suppression of vertical convection.
+      2. Human settlements on upper slopes to avoid frost pocket and nocturnal cold.
 6. Conclusion
    - Inversion has dual impacts(ecosystem activities vs health hazard), but urban pollution exacerbates its risks—requiring integrated air quality management and climate-resilient urban planning.

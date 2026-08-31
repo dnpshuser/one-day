@@ -1,11 +1,9 @@
 ### routine
-1. Notes - 3
+1. AWP - 2
 2. Opt - 2
-3. CA - 2
-4. AWP - 2
-5. Pre - 1
-6. Curious Me
-
+3. Notes - 2
+4. CA - 2
+5. Revision - 2
 
 
 ### Daily Tracking

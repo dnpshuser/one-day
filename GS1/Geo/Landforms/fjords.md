@@ -18,10 +18,12 @@
    - **Inundation by Sea:** As the ice age ends, the glacier melts and retreats, and the global sea level rises, flooding the deeply carved valley to form the fjord.
 
 3. Why are they so picturesque ?
-   - **Dramatic Relief:** vertical cliffs and the deep, calm waters of the inlet creates breathtaking scenery.
-   - **Waterfalls:** "hanging valleys" - spectacular waterfalls that plunge directly into the sea (e.g., The Seven Sisters waterfall in Geirangerfjord).
-   - **Reflective Waters:** The calm, sheltered waters often create mirror-like reflections of the surrounding snow-capped mountains and sky.
+   - **Dramatic vertical Relief:**
+   - **Calm Reflective Water inlets**
+   - **Cascading Waterfalls:** The Seven Sisters waterfall in Geirangerfjord.
+   - **Snow capped mountains:** 
    - **Pristine Wilderness:** 
+   - **Unique biodiversity**
 
 4. examples
    - **Norway:** Sognefjord (longest in Norway), Geirangerfjord (UNESCO World Heritage Site).

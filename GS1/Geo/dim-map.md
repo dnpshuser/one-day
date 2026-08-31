@@ -425,7 +425,7 @@
 
 
 
-## Geographical features and their location-changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes.
+## Geographical features and their location. Changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes.
 
 ### Flora and Fauna
 1. Flora
@@ -570,3 +570,14 @@
    4. key govt initiatives
    5. conclusion
 
+---
+
+# Other probable themes(not in pyq but imp)
+
+## Geomorphology
+
+### Karst topography
+1. Intro
+2. How formed
+3. importance/significance
+4. Conclusion

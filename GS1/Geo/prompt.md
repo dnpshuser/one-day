@@ -13,7 +13,12 @@ Write for all the files in the Energy directory.
 
 Write high quality UPSC Mains Notes on these domains and sub-domains
 Intro - Good and eye catching intro(15-25 words)
-Conclusion - Futuristic and positive and impactful(15-25 words). Link with SDG, Constitution, India's target
+Conclusion - Futuristic and positive and impactful(15-25 words). Link with SDG, Constitution, India's target as per the context
 Any data used in the answer - mention its source.
-Write for all the files in Primar, Secondary and Tertiary folders of 'Sectors of Economy'
-'E:\Upsc\Mains\one-day\GS1\Geo\Sectors of Economy'
+Write for all the files in these directories
+E:\Upsc\Mains\one-day\GS1\Geo\Concerns
+E:\Upsc\Mains\one-day\GS1\Geo\Current-Themes
+E:\Upsc\Mains\one-day\GS1\Geo\Geo-features
+E:\Upsc\Mains\one-day\GS1\Geo\Phenomena
+
+If it is too much for you, then stop stating to decrease the number of files per prompt.

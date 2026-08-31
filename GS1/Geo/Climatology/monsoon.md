@@ -1,16 +1,15 @@
 ### Monsoon
 1. Intro
-2. concepts
-3. process of occurring
-4. Characteristics
-5. places of impact in India and globally
+2. process of occurring
+3. Characteristics
+4. places of impact in India and globally
    1. diff names in diff regions
-6. effect and impact
+5. effect and impact
    1. cultural impact
    2. other effects
-7. Changes in pattern
+6. Changes in pattern
    1. Causes for this change
-8. Conclusion
+7. Conclusion
 
 ---
 
@@ -87,10 +86,32 @@
       3. Water availability
       4. Agriculture
       5. Urban flooding
+      6. East facing architectures
 8. Changes in pattern and cause
-   1. Rising Temperatures: Warmer oceans -> more evaporation -> heavier rainfall events.Extreme rainfall in India (2013 Uttarakhand floods).
-   2. Changing Circulation Shift in Hadley cell, jet streams -> altered monsoon patterns.Weakening of monsoon in some years.
-   3. Ocean WarmingWarmer Indian Ocean -> more moisture but also more cyclones.Cyclone Tauktae (2021).
-   4. Glacier Retreat Affects water flows and long-term water availability. Himalayan glacier loss.
+   1. Anthropogenic causes:
+      - Deforestation: Reduced evapotranspiration -> altered rainfall patterns.
+      - Urbanization: Heat islands -> local convection -> erratic rainfall.
+      - Aerosol Emissions: Particulate matter -> cloud microphysics/brown clouds -> scattered insolation -> delayed rainfall. 
+      - Greenhouse Gas Emissions: Global warming -> altered pressure gradients -> monsoon weakening.
+      - Land Use Change: Agriculture, irrigation, and land cover change -> local climate modification.
+      - Oceanic Changes: Warming oceans -> altered sea surface temperatures -> shifts in monsoon onset and intensity.
+      - Rising Temperatures: Warmer oceans -> more evaporation -> heavier rainfall events. Extreme rainfall in India (2013 Uttarakhand floods).
+   2. Natural Cause:
+      - El Niño and La Niña: ENSO events -> teleconnections -> delayed or enhanced monsoon.
+      - Indian Ocean Dipole: Positive IOD -> enhanced rainfall; Negative IOD -> suppressed rainfall.
+      - Volcanic Activity: Large eruptions -> stratospheric aerosols -> temporary cooling -> monsoon disruption.
+      - Solar Variability: Changes in solar irradiance -> subtle shifts in atmospheric circulation -> monsoon variability.
+      -  Glacier Retreat Affects water flows and long-term water availability. Himalayan glacier loss.
+      - Changing Circulation Shift in Hadley cell, jet streams -> altered monsoon patterns.Weakening of monsoon in some years.
+      - Ocean Warming Warmer Indian Ocean -> more moisture but also more cyclones. Cyclone Tauktae (2021).
+    3. Pattern Changes Observed:
+      - Delayed Onset: Monsoon onset delayed by 5-10 days in recent decades.
+      - Increased Intensity: Shorter, more intense rainfall events -> flash floods.
+      - Spatial Variability: Uneven distribution -> droughts in some regions, floods in others.
+      - Retreat Variability: Early or late withdrawal -> affects crop cycles. 
 9.  Conclusion
     - Monsoon is the lifeline of India which enables sustaining agriculture, water, economy, and ecosystems. Understanding its mechanism, variability, and changing behaviour is crucial for a climate-resilient future.
+
+
+
+MCDA00196949519

@@ -17,11 +17,13 @@
    2. Hypabyssal (Sub-surface Intrusions): Form at shallow intermediate depths in dykes, sills, and laccoliths (e.g., Dolerite, Pegmatite).
    3. Volcanic (Extrusive): Form on the surface due to rapid cooling of lava exposed to air/water, yielding fine-grained, glassy, or aphanitic textures (e.g., Basalt, Obsidian, Pumice, Rhyolite).
 3. Characteristics
-   - **Crystalline Structure:** Formed from magma, they are crystalline. Crystal size depends on the rate of cooling (slow cooling = large crystals; rapid cooling = fine/glassy texture).
-   - **Absence of Fossils:** The high temperature of molten magma destroys any organic remains, so these rocks are non-fossiliferous.
-   - **Hard and Resistant:** Generally compact, massive, and resistant to weathering and erosion.
+   - **Crystalline Structure:** 
+   - **Absence of Fossils:** 
+   - **Hard and Resistant:** 
    - **Jointed Structure:** Cooling and contraction often create joints, which can be exploited by weathering processes.
-   - **Mineral Rich:** Serve as the primary source of valuable metallic minerals like iron, manganese, gold, and diamonds, which are found in veins and lodes.
+   - **Mineral Rich:** Fe, Al, Mg, Au-Diamond, etc
+   - **No Stratification**
+   - **Silica: Acidic > 65% - light colour, Basic < 55% - dark colour**
 4. Importance rock types in Indian peninsula
    - **Deccan Traps:** A massive expanse of basaltic lava flows covering Maharashtra and parts of Gujarat & MP. Weathering of this basalt forms fertile **black cotton soil (regur)**.
    - **Dharwar System:** Though metamorphic, these are associated with large-scale igneous intrusions and are India's most economically significant rocks, rich in iron ore, manganese, copper, and gold (e.g., Kolar Gold Fields).
