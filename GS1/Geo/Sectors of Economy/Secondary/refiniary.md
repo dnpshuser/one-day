@@ -6,6 +6,8 @@
 6. Implications
 7. Conclusion
  
+---
+
 1. Intro
 	- Refineries follow a complex geography where crude supply, markets, ports, pipelines and product logistics often outweigh proximity to oilfields.
 2. How

@@ -3,6 +3,8 @@
 2. Factors for localization of Agro-based food processing industry in NorthWest India
 3. Conclusion
  
+---
+
 1. Intro
 	- Adding value to agricultural produce through modern food processing is the most effective bridge to transform farmers into rural entrepreneurs." — Dr. M.S. Swaminathan
 2. Factors for localization of Agro-based food processing industry in NorthWest India

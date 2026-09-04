@@ -3,7 +3,7 @@
 1. Sub-tropical high pressure belt(Hadley cell) -> subsiding air -> no cloud formation -> no rainfall
 2. Presence of dry air masses over the continent
    1. cT air mass over Sahara
-3. Offshore Trade winds
+3. Offshore Trade winds (Easterlies)
 4. Dry Ocean currents
    1. Humboldt current
    2. California current

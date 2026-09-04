@@ -41,3 +41,4 @@
    - Diagnosis based packages instead of charges for individual testing costs
    - Strenghten public healthcare which should be a credible alternative instead of last resort
    - Reform PM-JAY to include quality checks instead of measuring volumes 
+   - ![alt text](image.png)

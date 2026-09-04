@@ -1,35 +1,62 @@
 ### Himalayan Glacier melting
 1. intro
-Himalayan glaciers are retreating under the influence of rising global temperatures, threatening water security, agriculture, and hazard risk in the region. The issue is particularly significant because major rivers in South Asia depend on glacier-fed flows.
+2. how much melted: data
+3. threat
+4. causes
+5. effects and impacts
+6. mitigation measures
+7. conclusion
+
+---
+
+1. intro
+   - Glacial retreat directly threatens the Third Pole's ecological equilibrium, testing global collaborations.
+   - Rapid glacial melting in the Himalayas threatens perennial river systems, destabilizing freshwater availability, mountain ecologies, and downstream agrarian food security.
 
 2. how much melted: data
-- Studies by the International Centre for Integrated Mountain Development (ICIMOD) and global climate assessments indicate that many Himalayan glaciers are losing mass and retreating at accelerating rates.
-- The cryosphere is warming faster than the global average, and glacier melt is contributing to seasonal river discharge while creating long-term risks to future flows.
-- Source: IPCC AR6, ICIMOD, WMO.
+   - at accelerating rates.
+   - The cryosphere - warming faster than the global average,
 
 3. threat
-- Reduced glacier mass can lower dry-season river flows, affecting irrigation and drinking water in India, Nepal, and Bangladesh.
-- Glacier melt also enlarges the risk of glacial lake outburst floods (GLOFs) in mountain valleys.
-- Communities living in mountain regions face rising hazard exposure and displacement.
+   - low dry-season river flows
+   - irrigation and drinking water shortage
+   - GLOF risk in mountain valleys.
+   - Hanging valleys caused Nepal floods 2026
+   - displacement - high risk zones
 
 4. causes
-- Anthropogenic greenhouse gas emissions increase atmospheric and ocean temperatures.
-- Black carbon and aerosols deposited on snow reduce albedo and accelerate melting.
-- Local changes in precipitation, debris cover, and elevation also influence glacier response.
+   1. Anthropogenic 
+      1. Global warming: GHG inc 
+      2. inc SST.
+      3. Black carbon + aerosols deposits on snow reduce albedo and accelerate melting.
+      4. High tourism
+      5. mining activity in hilly region
+   2. Natural
+      1. Ice Age and Global Heating cycles
+      2. Climate change: prolonged summer + short winter
 
 5. effects and impacts
-- Changes in river regimes affect agriculture, hydroelectric generation, and ecosystems downstream.
-- Increased meltwater initially raises river flow but eventually reduces basal flow as glaciers shrink.
-- Mountain tourism, biodiversity, and local livelihoods are also vulnerable to glacial instability.
+   1. Changes in river regimes
+   2. Low avg water flow - river
+      1. Water shortage: agri, drinking, industry
+   3. Mountain tourism, 
+   4. biodiversity, and 
+   5. local livelihoods 
+
 
 6. mitigation measures
-- Reduce global emissions to limit warming and slow glacier loss.
-- Strengthen glacial lake monitoring and early-warning systems.
-- Promote sustainable mountain development, community awareness, and risk zoning.
-- Restore watershed health and reduce black carbon emissions from biomass burning and fossil-fuel use.
+   1. Meet Paris Agreement: 1.5 deg C
+   2. Strengthen glacial lake monitoring 
+   3. early-warning systems.
+   4. sustainable mountain development, 
+   5. community awareness,  
+   6. risk zoning.
+   7. Restore watershed health 
+   8. limit tourism
+   9. promote plastic takeback
+   10. reduce black carbon emissions: biomass burning and fossil-fuel use.
 
 7. conclusion
-The melting of Himalayan glaciers is a water-security and disaster-risk issue for South Asia, requiring urgent climate action and mountain-specific resilience planning. Source: ICIMOD, IPCC AR6, WMO.
-
+Mitigating cryosphere hazards demands institutionalizing a dedicated National Glacial Authority and transboundary data sharing, as urged by the Parliamentary Standing Committee on Water Resources.
 
 ---

@@ -5,6 +5,8 @@
 4. concerns
 5. Conclusion
  
+---
+
 1. Intro
 	- Formed by massive Cretaceous fissure volcanism, the Deccan Traps underpin peninsular India's geology, yielding fertile black soils and vital mineral wealth.
 2. What all resources available in deccan trap ?

@@ -9,13 +9,16 @@
 1. Intro:
    - A large volume of air with uniform temperature and humidity generally extending upto thousands of kilometers horizontally over a source region.
 2. Formation:
-   - when a large body of air sits stationary over a uniform region of Earth's surface(Source region) for several days or weeks, absorbing the exact temperature and moisture traits of that underlying land or water.
+   - stationary wind
+   - uniform source region 
+   - several days or weeks 
+   - absorbs props(T & H) of source region
 
 3. Classification
-   - **Temperature:** Classified as Tropical (T) or Polar (P).
-   - **Humidity:** Classified as continental (c - dry) or maritime (m - moist).
-   - **Classification (cT, cP, mT, mP):** The four main types (e.g., cP is continental Polar - cold and dry).
-   - **Stability:** The tendency of the air to rise or sink.
+   - **Temperature:** Tropical (T) / Polar (P).
+   - **Humidity:** Continental (c - dry) / maritime (m - moist).
+   - **Classification (cT, cP, mT, mP):**
+   - **Stability:** rise or sink tendency
   
 4. Frontogenesis is the birth or strengthening of the boundary (front) separating two distinct air masses with different densities(T and H).
    1. Warm Front: Warm air mass is more active.
@@ -39,7 +42,7 @@
    4. Aridity: Stable descending cT air masses sustain global subtropical high pressure deserts
       1. eg: Sahara, Atacama, Great Australian Desert
    5. Global heat transport from tropics to polar
-   6. Cold waves polar outbreaks
+   6. Cold waves polar outbreaks meanders JetStreams
    7. mT drives monsoon
 
 7. Conclusion: Air masses are moving reservoir of heat and moisture, making their tracking indispensable for agriculture and water management and climate-resilient planning.

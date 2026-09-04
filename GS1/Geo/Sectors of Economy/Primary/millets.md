@@ -39,7 +39,7 @@
 	9. jowar is important in the Deccan; 
 	10. ragi is prominent in Karnataka and adjoining areas.
 5. India's position in global production and consumption
-	1. India is the world's largest millet producer. **Source: FAOSTAT; Ministry of Agriculture and Farmers Welfare.**
+	1. India is the world's largest millet producer. 
 	2. Domestic consumption is rising through public procurement, nutrition programmes, urban demand and value-added products.
 6. Challenges
 	1. Low productivity, 
@@ -56,6 +56,6 @@
 	1. National Mission on Nutri-Cereals, 
 	2. NFSM, 
 	3. PM POSHAN and PDS support production and consumption.
-	4. India led the declaration of 2023 as the International Year of Millets. **Source: FAO and United Nations.**
+	4. India led the declaration of 2023 as the International Year of Millets. 
 9. Conclusion
 	- Mainstreaming millets through nutrition-sensitive procurement and innovation can advance SDG 2(Zero Hunger), farmer resilience and India's climate commitments.

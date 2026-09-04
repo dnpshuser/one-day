@@ -3,6 +3,8 @@
 2. Application of AI and drones in locational and aerial planning
 3. Conclusion
  
+---
+
 1. Intro
 	- Artificial intelligence and drones are reshaping spatial planning by converting complex geographic data into faster, predictive and evidence-based decisions.
 2. Application of AI and drones in locational and aerial planning

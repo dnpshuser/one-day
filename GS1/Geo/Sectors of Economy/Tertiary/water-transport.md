@@ -7,6 +7,8 @@
 6. Major govt programs
 7. Conclusion
  
+---
+
 1. Intro
 	- Inland water transport offers India a low-cost, low-emission logistics alternative capable of connecting hinterlands with markets while easing road and rail pressure.
 	- As the most fuel-efficient and low-carbon logistics mode, water transport underpins cost-effective freight mobility and balanced multimodal connectivity.

@@ -11,11 +11,10 @@
    - Ring of fire is a 40,000-kilometer long, horseshoe-shaped belt of intense tectonic activity, tracing the margins of the Pacific Plate.
 
 2. Characteristics
-   - **High Volcanic Activity:** Home to over 450 volcanoes, which is approximately 75% of the world's active and dormant volcanoes.
-   - **High Seismicity:** Accounts for about 90% of the world's earthquakes and 81% of the world's largest earthquakes.
-   - **Ocean Trenches:** Characterized by some of the world's deepest ocean trenches, such as the Mariana Trench, marking subduction zones.
-   - **Chain of Islands:** Features numerous volcanic island arcs, like the Aleutian Islands and Japan.
-
+   - Tectonic: O-O, O-C
+   - Geomorphic landforms: archaepilago, trenches, seamounts
+   - Seismicity: deep focus equak
+   - voilent volcanoes: mt fuji
 3. Causes/Reasons
    - **Plate Tectonics:** The primary cause is the movement and collision of lithospheric plates. The Ring of Fire is a continuous series of convergent plate boundaries.
    - **Subduction Zones:** Denser oceanic plates (e.g., Pacific, Nazca, Cocos plates) slide beneath lighter continental plates (e.g., North American, South American, Eurasian plates).

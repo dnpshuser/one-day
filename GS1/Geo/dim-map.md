@@ -344,6 +344,7 @@
    3. Recent occurrance
 5. Impact
 6. Mitigation Steps
+7. Conclusion
 
 
 ### Volcanoes
@@ -356,6 +357,7 @@
    1. Environmental impact
    2. Other impact
 6. Mitigation Measures
+7. Conclusion
 
 
 

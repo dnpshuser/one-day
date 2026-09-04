@@ -8,6 +8,8 @@
 7. Govt initiatives
 8. Conclusion
  
+---
+
 1. Intro
 	- Encompassing allied sectors like forestry, fisheries, and pastoralism, non-farm primary activities form the vital safety net for rural livelihoods and ecological diversification.
 2. enumerate all non-farm primary activities

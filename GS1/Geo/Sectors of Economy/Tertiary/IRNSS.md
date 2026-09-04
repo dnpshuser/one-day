@@ -6,6 +6,8 @@
 5. Significance for India
 6. Conclusion
  
+---
+
 1. Intro
 	- NavIC converts India's space capability into sovereign positioning services, strengthening navigation, disaster response, logistics and strategic autonomy.
 2. Evolution

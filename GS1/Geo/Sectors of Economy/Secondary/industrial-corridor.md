@@ -7,6 +7,8 @@
 6. Key initiatives
 7. Conclusion
  
+---
+
 1. Intro
 	- Integrating multimodal transport with planned manufacturing nodes, industrial corridors serve as spatial catalysts for balanced regional growth and global supply-chain integration.
 2. Concept

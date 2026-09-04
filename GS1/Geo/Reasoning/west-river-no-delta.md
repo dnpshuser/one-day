@@ -13,4 +13,4 @@ Most westward-flowing rivers in India (like the short streams originating in the
 2. Coastline & Maritime Dynamics
    1. Narrow & Deep Continental Shelf:
    2. Submerged Coastline creates deep funnel shaped estuaries.
-   3. High Wave Energy & Strong Tidal Currents:Any sediment that the river does discharge is immediately washed out to deep sea by tidal flushing.
+   3. High Wave Energy & Strong Tidal Currents: Any sediment that the river does discharge is immediately washed out to deep sea by tidal flushing.

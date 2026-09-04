@@ -9,6 +9,8 @@
 8. Govt schemes
 8. Conclusion
 
+---
+
 1. Intro
 	- Pulses are India's affordable protein bridge, enriching soil while strengthening nutrition, farmer resilience and the sustainability of water-stressed agriculture.
 2. Importance

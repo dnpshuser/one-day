@@ -6,6 +6,8 @@
 6. Way forward
 7. Conclusion
  
+---
+
 1. Intro
 	- Powering heavy industry and baseload electricity, coal remains the historic bedrock of India's energy security and industrial modernization.
 2. Challenges

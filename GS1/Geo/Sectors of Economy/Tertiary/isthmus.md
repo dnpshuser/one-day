@@ -6,6 +6,8 @@
 5. Mitigation measures
 6. Conclusion
  
+---
+
 1. Intro
 	- An isthmus is a narrow land bridge joining two larger landmasses and separating two water bodies, often becoming a strategic transport corridor.
 2. Significance in international trade

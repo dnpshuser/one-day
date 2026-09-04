@@ -1,6 +1,15 @@
 ### South China Sea
+1. Intro
+2. Importance
+3. issues/data
+4. china hagemony
+5. sol
+6. Conclusion
+
+---
+
 1. intro
-The South China Sea is one of the world’s most strategically significant maritime regions, linking major shipping lanes, rich fisheries, and substantial hydrocarbon potential. It has become a flashpoint in Indo-Pacific geopolitics.
+Bridging the Indian and Pacific Oceans, the South China Sea is a critical maritime highway carrying one-third of global commercial shipping.
 
 2. importance
 - It carries a large share of global trade and energy shipping routes, connecting East Asia, South Asia, and the Middle East.
@@ -8,21 +17,27 @@ The South China Sea is one of the world’s most strategically significant marit
 - The sea is crucial for military access, maritime surveillance, and naval deterrence in the Indo-Pacific.
 
 3. data
-- More than half of global shipping tonnage passes through the South China Sea or its adjacent routes.
-- Several countries, including China, Vietnam, the Philippines, Malaysia, Brunei, and Taiwan, have overlapping maritime claims.
-- Source: UN Convention on the Law of the Sea (UNCLOS), IISS, CSIS, and maritime trade studies.
+- 50%+ global shipping tonnage - South China Sea or its adjacent routes.
+- overlapping maritime claims: 
+  - China, 
+  - Vietnam 
+  - Philippines
+  - Malaysia
+  - Brunei
+  - Taiwan 
+- Source: UN Convention on the Law of the Sea (UNCLOS)
 
-4. china hagemony
+1. china hagemony
 - China’s expansive nine-dash line claims overlap with the claims of several littoral states and are contested under international law.
-- Beijing has strengthened its control through artificial island building, military installations, and naval patrols.
-- This has raised concerns over freedom of navigation, regional stability, and the rules-based maritime order.
+- Beijing - artificial island building, military installations, and naval patrols.
+- concerns over freedom of navigation, regional stability, and the rules-based maritime order.
 
-5. solutions
-- Peaceful settlement through diplomacy, arbitration, and adherence to UNCLOS.
+1. solutions
+- Peaceful settlement through diplomacy, arbitration(मध्यस्थता), and adherence to UNCLOS.
 - Freedom of navigation operations by affected states and collective regional cooperation.
 - Greater emphasis on confidence-building measures, transparency, and maritime security dialogues.
 
-6. conclusion
-The South China Sea is not just a resource dispute but a test of the Indo-Pacific order, where legal, strategic, and ecological considerations must be balanced through peaceful cooperation. Source: UNCLOS, IISS, CSIS.
+1. conclusion
+Upholding freedom of navigation and a rules-based order under UNCLOS is imperative for Indo-Pacific stability and uninterrupted global maritime commerce.
 
 ---

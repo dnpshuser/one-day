@@ -6,6 +6,8 @@
 5. ongoing projects along the coastline in different sectors
 6. Conclusion
  
+---
+
 1. Intro
 	- India's coastline is an ecological shield, economic gateway and resource zone whose sustainable use can advance blue growth without sacrificing coastal resilience.
 2. what resources are found along the coastline

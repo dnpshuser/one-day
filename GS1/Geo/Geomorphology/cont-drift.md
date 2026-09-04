@@ -17,12 +17,13 @@
       1. Pole fleeing force - centrifugal force from earth's rotation
       2. Tidal force: Gvt force of Moon and Sun
 3. Evidence
-   1. Jigsaw Fit: Continental Concordance: Coastline of SAm and West Africa
+   1. Jigsaw Fit:
    2. Mesosaurus fossila: SAf and Brazil
    3. Rock types and ages across the coastline are same
    4. Applachian mountains matching with Scandinavian mountains in type and characteristics
    5. Glacial Tillite deposits in Gondwana fragments: India, Africa, Madagascar, Australia reflects a shared glacial episode.
-   6. Placer Deposits of gold in Ghana lack local source rock tracing back to gold bearing veins in Brazil.
+   6. Glossopteris
+   7. Placer Deposits of gold in Ghana lack local source rock tracing back to gold bearing veins in Brazil.
 4. Significance
    1. Paradigm shift: Displaced the long-held static-crust model and introduced horizontal mobility of the Earth's crust.
    2. Foundational Framework that later evolved into 

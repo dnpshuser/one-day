@@ -7,6 +7,8 @@
 6. Mitigation measures
 7. Conclusion
 
+---
+
 1. Intro
 	- Natural rubber links tropical ecology with tyres, healthcare and industry, making sustainable plantation management essential for both livelihoods and supply security.
 2. Climate requirements

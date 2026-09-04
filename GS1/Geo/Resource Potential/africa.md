@@ -6,7 +6,9 @@
 5. scope for enhanced partnership and trade
 6. Competition on resource potential with other countries
 7. Conclusion
- 
+
+---
+
 1. Intro
 	- Endowed with vast critical minerals and renewables, Africa stands as the indispensable frontier for global green transitions and industrial value chains.
 2. What all resources found in Africa
@@ -23,19 +25,19 @@
       	1. Sahara and 
       	2. southern Africa.
 	2. **Minerals:** 
-   	1. Cobalt and copper 
+   	1. uranium in 
+      	1. Niger and Namibia; 
+   	2. lithium in 
+      	1. Zimbabwe
+      	2. Namibia; 
+   	3. Cobalt and copper 
       	1. Democratic Republic of Congo 
       	2. Zambia; 
-   	2. platinum in 
+   	4. platinum in 
       	1. South Africa and Zimbabwe; 
-   	3. lithium in 
-      	1. Zimbabwe and 
-      	2. Namibia; 
-   	4. manganese in 
+   	5. manganese in 
       	1. South Africa and 
       	2. Gabon; 
-   	5. uranium in 
-      	1. Niger and Namibia; 
    	6. bauxite in Guinea.
 	3. **Agriculture:** 
    	1. Arable land, 
@@ -49,9 +51,22 @@
    	2. offshore hydrocarbons and 
    	3. blue-economy opportunities along Atlantic and Indian Ocean coasts.
 3. India's interest
-	1. Diversify crude oil, LNG, uranium, critical minerals and fertiliser supplies.
-	2. Secure inputs for electric vehicles, batteries, semiconductors and renewable technologies.
-	3. Expand markets for Indian pharmaceuticals, automobiles, digital services and affordable healthcare.
+	1. Resource Diversification:
+   	1.  crude oil, 
+   	2.  LNG, 
+   	3.  uranium, 
+   	4.  critical minerals like Lithium 
+   	5.  fertiliser supplies.
+	2. Secure inputs for 
+   	1. electric vehicles, 
+   	2. batteries, 
+   	3. semiconductors and 
+   	4. renewable technologies.
+	3. Markets for 
+   	1. Indian pharmaceuticals, 
+   	2. automobiles, 
+   	3. digital services and 
+   	4. affordable healthcare.
 	4. Strengthen maritime security across the western Indian Ocean.
 4. current ties with African country
 	1. India-Africa cooperation uses ITEC, Lines of Credit, concessional finance and scholarships.

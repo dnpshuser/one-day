@@ -12,10 +12,10 @@
    - They are characteristic U-shaped valleys that have been inundated by the sea after the retreat of the glacier.
 
 2. How do they form ?
-   - **Glacial Scouring:** glaciers flow down pre-existing river valleys towards the sea.
-   - **Deepening and Widening:** The immense weight and erosive power of the glacier carve the V-shaped river valley into a deep, steep-sided U-shaped trough, often extending far below sea level.
+   - **Glacial Scouring:** 
+   - **Deepening and Widening:** V-shaped river valley -> deep, steep-sided U-shaped trough
    - **Formation of a Sill:** The glacier deposits a pile of rock and debris (a terminal moraine) at its snout. This often forms a shallow underwater ridge, known as a sill or threshold, at the fjord's mouth.
-   - **Inundation by Sea:** As the ice age ends, the glacier melts and retreats, and the global sea level rises, flooding the deeply carved valley to form the fjord.
+   - **Inundation by Sea:**
 
 3. Why are they so picturesque ?
    - **Dramatic vertical Relief:**

@@ -5,6 +5,8 @@
   2. Implications
 3. Conclusion 
  
+---
+
 1. Intro
   - India's sugar industry is a powerful agro-industrial bridge, but its sustainability depends on matching cane cultivation with water, climate and market realities.
 2. growing trend in South India

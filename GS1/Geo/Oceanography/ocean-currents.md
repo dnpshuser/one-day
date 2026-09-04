@@ -36,8 +36,16 @@
      - **Dispersal of Life & Pollutants:** disperse marine larvae and spread pollutants.
 
 4. Global distribution[insert image here]
-   - **Warm Currents:** Gulf Stream (Atlantic), Kuroshio (Pacific), Agulhas Current (Indian).
-   - **Cold Currents:** Labrador Current (Atlantic), California Current (Pacific), Peru Current (Pacific), Benguela Current (Atlantic), West Australian Current (Indian).
+   - **Warm Currents:** 
+     - Gulf Stream (Atlantic), 
+     - Kuroshio (Pacific), 
+     - Agulhas Current (Indian).
+   - **Cold Currents:** 
+     - Labrador Current (Atlantic), 
+     - California Current (Pacific), 
+     - Peru Current (Pacific), 
+     - Benguela Current (Atlantic), 
+     - West Australian Current (Indian).
    - **Major Systems:** Antarctic Circumpolar Current (largest current), Atlantic and Pacific Gyres.
 
 5. Conclusion

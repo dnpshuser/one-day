@@ -7,6 +7,8 @@
 6. govt initiatives
 7. Conclusion
  
+---
+
 1. Intro
 	- As India's second-largest employment generator, the textile sector underpins labor-intensive industrialization, female workforce participation, and global export competitiveness.
 2. Evolution

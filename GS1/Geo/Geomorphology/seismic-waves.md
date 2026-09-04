@@ -36,8 +36,8 @@
 
 5. Shadow zones
    - **Definition:** Specific areas on the Earth's surface where seismographs do not detect direct seismic waves from an earthquake. Their existence provides crucial evidence about the Earth's interior.
-   1. **P-Wave Shadow Zone:** A ring-like zone between **105° and 145°** from the epicenter. This occurs because P-waves are sharply refracted (bent) when they enter the liquid outer core.
-   2. **S-Wave Shadow Zone:** A vast area beyond **105°** from the epicenter. This is because S-waves cannot pass through the liquid outer core, creating a large "shadow" on the opposite side of the Earth. This is the definitive proof of a liquid outer core.
+   1. **P-Wave Shadow Zone:** **105° and 145°** from the epicenter.
+   2. **S-Wave Shadow Zone:** beyond **105°** from the epicenter.
 
 6. Effects & Impacts
    - **Primary Impact:** Intense ground shaking leading to the collapse of buildings, bridges, and infrastructure.

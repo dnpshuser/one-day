@@ -12,7 +12,7 @@
 ---
 
 1. Introduction
-   - Mountains are high-relief landforms acting as Earth's natural water towers, regulating global climate, orographic precipitation, and sustaining downstream ecological security.
+   - Mountains are high-relief landforms acting as Earth's natural water towers, regulating global climate, orographic precipitation, and sustaining downstream ecological security, acting as primary thermodynamic barriers that govern regional weather systems.
 
 2. Significance
    - **Water Towers:** 
@@ -37,6 +37,9 @@
    - **Anabatic & Katabatic Winds:** 
      - Anabatic winds are warm upslope breezes driven by daytime solar heating, 
      - katabatic winds are cold downslope flows caused by nighttime surface cooling and gravity
+   - **Local Winds**: 
+     - Chinook - snow eater on leeward side of Rockeys
+     - Foehn - Alps mts(EU)
 
 5. Fold mountains
    1. **Located along the plate margins - why?**
@@ -50,4 +53,4 @@
       - **Volcanic Activity:** In ocean-continent convergence, subduction of the oceanic plate leads to melting and magma formation, resulting in active volcanoes (e.g., Andes). Continent-continent collisions (like Himalayas) have less volcanism but intense seismic activity.
 
 6. Conclusion
-   - Mountains are fundamental to Earth's climate, hydrology, and biodiversity. Their conservation is critical for sustainable development and ecological balance, especially in the face of climate change.
+   - From triggering local Foehn winds to dictating macro-precipitation divides, mountain topography remains the fundamental architect of terrestrial micro-climates.

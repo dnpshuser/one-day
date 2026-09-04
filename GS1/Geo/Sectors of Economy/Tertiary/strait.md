@@ -6,6 +6,8 @@
 5. Mitigation measures
 6. Conclusion
  
+---
+
 1. Intro
 	- A strait is a naturally narrow water passage linking larger water bodies, making it a geographic chokepoint where commerce, security and diplomacy converge.
 2. Significance in international trade

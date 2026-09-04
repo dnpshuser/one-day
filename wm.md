@@ -14,4 +14,9 @@
 14. The Cretaceous is the last and longest geological period of the Mesozoic Era, lasting from about 145 to 66 million years ago
 15. A cohort is a group of people or subjects who share a common characteristic or experience
 16. poised: not moving but ready to move, ready to act; about to do something
+17. Runoff is excess water from rain or melting snow that flows over the earth's surface when the ground cannot absorb it anymore
+18. philanthrophy: the practice of helping the poor and those in need, especially by giving money
+19. xenophobia: a fear or hatred of foreign people and cultures
+
+
 

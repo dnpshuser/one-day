@@ -25,9 +25,10 @@
 
 4. Role in plate tectonics
    - **Intraplate Volcanism:** - the Hawaiian Islands in the middle of the Pacific Plate.
-   - **Continental Rifting:** The arrival of a massive plume head beneath a continent can cause crustal uplift, weakening, and eventual rifting, potentially leading to the breakup of continents (e.g., the East African Rift Valley).
+   - **Continental Rifting:** e.g., the East African Rift Valley
    - **Formation of Large Igneous Provinces (LIPs):** 
    - **Creation of Volcanic Chains:** e.g., Hawaiian-Emperor seamount chain.
+   - **Relatively stationary: tracks plate movement**
 
 5. Famous Examples
    - **Hawaiian Hotspot: Kilauea eruptions-currently active** 
@@ -37,3 +38,4 @@
 
 6. Conclusion
    - Mantle plumes, although not fully understood, are a crucial element of Earth's geodynamics, providing a powerful explanation for volcanism away from plate boundaries.
+   - Beyond initiating continental rifting and Large Igneous Provinces, stationary mantle plumes provide the essential kinematic reference frame for mapping absolute plate motions.

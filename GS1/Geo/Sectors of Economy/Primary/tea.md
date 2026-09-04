@@ -6,6 +6,8 @@
 5. Why couldn't extend beyond Darjeeling
 6. Conclusion
  
+---
+
 1. Intro
 	- As a labor-intensive agro-industrial plantation crop, tea drives regional hill employment, vital foreign exchange earnings, and organized rural livelihoods.
 2. Regions of cultivation

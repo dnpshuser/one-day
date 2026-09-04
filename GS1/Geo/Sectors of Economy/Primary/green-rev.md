@@ -14,7 +14,7 @@
 	2. Wheat transformed Punjab, Haryana and western Uttar Pradesh; 
 	3. rice expanded through irrigated regions.
 	4. Public research, fertiliser support, minimum support prices and the Food Corporation of India enabled adoption.
-	5. India is a leading producer of rice, wheat, milk, pulses and several horticultural commodities. **Source: FAOSTAT; Ministry of Agriculture and Farmers Welfare, Agricultural Statistics at a Glance.**
+	5. India is a leading producer of rice, wheat, milk, pulses and several horticultural commodities. 
 3. Regions of production
 	1. Wheat: Punjab, Haryana, western Uttar Pradesh, Madhya Pradesh and Rajasthan.
 	2. Rice: eastern and southern deltas, Punjab, Haryana, Uttar Pradesh and Chhattisgarh.

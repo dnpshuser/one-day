@@ -6,6 +6,8 @@
 5. Way forward
 6. Conclusion
  
+---
+
 1. Intro
 	- Melting polar ice is transforming the Arctic into a contested frontier of unexploited hydrocarbons, critical rare earths, and strategic maritime corridors.
 2. India's interest: What all resources Arctic region can provide
@@ -32,7 +34,7 @@
 	1. Russia controls much of the Northern Sea Route and has major Arctic energy and infrastructure interests.
 	2. The United States, 
 	3. Canada, 
-	4. Norway and 
+	4. Norway 
 	5. Denmark pursue security and resource interests; 
 	6. China describes itself as a near-Arctic state and invests in research and connectivity.
 	7. Militarisation, sanctions, indigenous rights and weakening cooperation increase uncertainty.

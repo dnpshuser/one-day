@@ -7,6 +7,7 @@
 
 1. Intro
 	- The East African Rift Valley is an active continental divergent boundary where Africa is gradually splitting into the Nubian and Somali plates.
+	- ![alt text](image.png)
 2. Factors driving East Africa rift valley
 	1. **Mantle upwelling:** Heat rising from the mantle creates doming, weakens and thins the overlying lithosphere.
 	2. **Tensional forces:** The Nubian and Somali plates move away from each other, producing stretching and normal faulting.

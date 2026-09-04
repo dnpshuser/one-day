@@ -1,6 +1,15 @@
 ### Groundwater depletion
 1. Intro
-Groundwater is a crucial lifeline for Indian agriculture, drinking water, and industry, but rapid extraction has caused a serious decline in water tables in many regions. India’s dependence on groundwater makes depletion one of the biggest water-security challenges.
+2. Factors/Causes
+3. Effects/Impacts
+4. Mitigation measures
+5. Government initiatives
+6. Conclusion
+
+
+---
+1. Intro
+India extracts over a quarter of the world's groundwater, turning an invisible resource into an imminent ecological and food-security crisis.
 
 2. Factors/Causes
 - Excessive pumping for irrigation, especially in states like Punjab, Haryana, and western Uttar Pradesh.
@@ -27,12 +36,15 @@ Groundwater is a crucial lifeline for Indian agriculture, drinking water, and in
       - Regulate abstraction, fix extraction limits, and improve groundwater governance.
 
 6. Government initiatives
-- Atal Bhujal Yojana focuses on community-led groundwater management in stressed areas.
-- Jal Shakti Abhiyan and PMKSY promote recharge, rainwater harvesting, and water conservation.
+- Atal Bhujal Yojana
+- Jal Shakti Abhiyan and PMKSY 
+  - promote recharge, 
+  - rainwater harvesting 
+  - water conservation.
 - Central Ground Water Board (CGWB) monitors aquifer status and provides groundwater data.
 
-7. Conclusion
-Groundwater depletion is a classic example of resource overuse driven by demand, policy, and governance failures; sustainable water management is essential for food security and ecological balance. Source: CGWB, NITI Aayog, Ministry of Jal Shakti.
+1. Conclusion
+Shifting to demand-side water management and localized aquifer recharge is critical to secure India's water future and meet SDG 6(Clean Water and Sanitation).
 
 
 ---

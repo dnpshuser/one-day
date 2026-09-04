@@ -7,6 +7,8 @@
 6. Measures to improve water efficiency
 7. Conclusion
  
+---
+
 1. Intro
 	- "अद्भिः सर्वाणि भूतानि जीवन्ति प्रभवन्ति च।" — महाभारत (शान्ति पर्व)
 	- (From water all living beings emerge, and by water they are sustained.)

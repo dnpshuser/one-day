@@ -1,0 +1,1 @@
+1. Feldspar: rock forming minerals - Al-silicates + Na, K, Ca, Ba
