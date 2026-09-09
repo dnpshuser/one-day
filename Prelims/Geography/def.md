@@ -13,3 +13,5 @@
 9. Coastal reclamation is the process of turning shallow water, tidal marshes, or seabeds into dry, usable land
 10. Hydrothermal vents are deep-sea hot springs that form rocky chimneys and rich deposits of polymetallic sulphides when superheated, mineral-laced water meets cold ocean water
 11. Pyroclastic material is a collective term for any volcanic rock fragment that is blasted into the air or carried by explosive volcanic eruptions.
+12. Advection in the atmosphere is the horizontal transfer of atmospheric properties—such as heat, moisture, or pollutants—by the movement of wind
+13. BBNJ Agreement, also known as the High Seas Treaty, is a legally binding international treaty that entered into force on January 17, 2026, to protect marine biodiversity in international waters.

@@ -17,6 +17,19 @@
 17. Runoff is excess water from rain or melting snow that flows over the earth's surface when the ground cannot absorb it anymore
 18. philanthrophy: the practice of helping the poor and those in need, especially by giving money
 19. xenophobia: a fear or hatred of foreign people and cultures
+20. derogatory: expressing a lack of respect for, or a low opinion of something
+21. embed: to fix something firmly and deeply (in something else)
+22. outlaw(Polity): to make something illegal
+23. derogatory : expressing a lack of respect for, or a low opinion of something
+24. Sought to means tried, attempted, or made an effort to do something
+25. oust: to force somebody out of a job or position of power, especially in order to take their place
+26. concur: to agree: The judge concurred with the jury's final decision.
+27. dissent: to have opinions that are different to those that are officially held
+28. Essence means the basic or most important quality of something that makes it what it is
+29. muster: to find as much support, courage, etc. as you can
+
+
+
 
 
 

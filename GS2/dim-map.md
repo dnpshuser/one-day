@@ -33,7 +33,9 @@ General Studies- II: Governance, Constitution, Polity, Social Justice and Intern
 5. historical anchor
 
 ### DPSP
-1. Factors inhibiting UCC implementation
+1. Intro
+2. Factors inhibiting UCC implementation
+3. Conclusion
 
 
 ### Fundamental Rights
@@ -60,8 +62,10 @@ General Studies- II: Governance, Constitution, Polity, Social Justice and Intern
 2. Defendable ?
 
 ### Basic structure
-1. Features
-2. Case laws
+1. Intro
+2. Features
+3. Case laws
+4. Conclusion
 
 
 ## Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure

@@ -7,6 +7,7 @@
 
 1. Intro
    - The oceans, covering over 70% of the Earth's surface, are a vast repository of living and non-living resources that are vital for human sustenance, economic development, and environmental stability.
+   - With terrestrial reserves facing exhaustion, the oceans represent the next resource frontier, offering vast critical minerals, kinetic energy, and blue bio-resources
 
 2. Ennumerate various resources, locations and their utility
    - **1. Living Resources:**
@@ -28,7 +29,7 @@
      - **Petroleum and Natural Gas:** Found in sedimentary basins on continental shelves. 
        - **Locations:** Persian Gulf, Gulf of Mexico, North Sea, South China Sea, and India's Mumbai High. 
        - **Utility:** Primary energy source.
-     - **Gas Hydrates:** "Fire ice" - methane trapped in ice crystals. 
+     - **Gas Hydrates:** "Fire ice" - methane trapped in ice crystals.  8CH₄ ⋅ 46H₂O 
        - **Locations:** Continental slopes and Arctic permafrost. 
        - **Utility:** Potential future energy source, but extraction is challenging and risky.
    - **3. Non-Living Resources (Energy):**

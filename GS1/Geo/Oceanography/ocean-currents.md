@@ -10,37 +10,37 @@
 5. Conclusion
 
 ---
+
 1. Intro
-   - Ocean currents are the continuous, predictable, and directed movement of seawater driven by a variety of forces. They act as a global conveyor belt, transporting water, heat, nutrients, and organisms across vast distances, playing a critical role in regulating Earth's climate and ecosystems.
+   - Ocean currents are large-scale, continuous horizontal water movements driven by planetary wind stress, thermohaline density gradients, and Coriolis deflection.
 
 2. Factors of origin of ocean currents
-   - **Primary Forces (Initiate Movement):**
-     - **Solar Heating:** equitorial water is warmer -> at higher levels than that of mid-latitudes, creating a gentle slope for water flow.
-     - **Wind:** Frictional drag from prevailing winds on the ocean surface
-     - **Gravity:** Tends to pull water down the gravitational slope created by solar heating.
-     - **Salinity/Density Differences:** Colder, saltier water is denser and sinks, driving deep-water thermohaline circulation.
-   - **Secondary Forces (Modify Direction):**
-     - **Coriolis Effect:** Deflects moving water to the right in the Northern Hemisphere and to the left in the Southern Hemisphere, creating large circular patterns called gyres.
-     - **Shape of Ocean Basins:** Continents and seafloor topography obstruct and divert the flow of currents.
+     - **Solar Heating:** 
+     - **Planetary Wind Frictional Drag:** 
+     - **Gravity:** 
+     - **Thermohaline Density Contrasts:** Colder, saltier water is denser and sinks, driving deep-water thermohaline circulation.
+     - **Coriolis Effect:** 
+     - **Underwater reliefs:** seafloor topography obstruct and divert 
 
 3. Effect and impact
   1. **Regional Climate:**
      - **Warming Effect:** **Gulf Stream** and **North Atlantic Drift** keeps ports ice-free in winter.
      - **Cooling/Arid Effect:** **Peru (Humboldt) Current** and **Benguela Current** forms of coastal deserts (e.g., Atacama Desert).
-  2. **Navigation:** affects speed
-  3. **Fishing:**
+  2. **Navigation:** fuel efficiency and speed
+  3. **Navigational Hazards**: advection fog(mix: warm and cold currents) - Eg: Titanic disaster near Gulf and Labrador confluence.
+  4. **Fishing:**
      - **Upwelling:** 
      - **Convergence:** mixing of warm and cold currents (e.g., Kuroshio and Oyashio off Japan) causes mixing and creates ideal conditions for plankton, attracting large fish populations.
-  4. **Other effects and impacts:**
-     - **Fog Formation:** The meeting of warm and cold currents creates dense fog, posing a hazard to navigation (e.g., near Newfoundland).
+  5. **Other effects and impacts:**
+     - **Fog Formation:** 
      - **Dispersal of Life & Pollutants:** disperse marine larvae and spread pollutants.
 
 4. Global distribution[insert image here]
    - **Warm Currents:** 
      - Gulf Stream (Atlantic), 
-     - Kuroshio (Pacific), 
-     - Agulhas Current (Indian).
+     - Agulhas Current (Mozambique channel, S.Africa East coast: Indian).
    - **Cold Currents:** 
+     - Kuroshio (near Japan: Pacific), 
      - Labrador Current (Atlantic), 
      - California Current (Pacific), 
      - Peru Current (Pacific), 
@@ -50,3 +50,4 @@
 
 5. Conclusion
    - They are planet's vital circulatory system, fundamentally linking the ocean, atmosphere, and climate. Their stability is crucial for global climate patterns and marine productivity.
+   - Regulating planetary heat redistribution from equator to poles, ocean currents form the master circulatory system governing coastal habitability, marine ecology, and global shipping lanes
