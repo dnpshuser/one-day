@@ -6,6 +6,8 @@
 5. Concerns
 6. Conclusion
 
+---
+
 1. Intro
 	- The blue LED solved the missing link in efficient white light, transforming semiconductor physics into an everyday technology with global energy and social benefits.
 2. What is it ?

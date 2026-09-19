@@ -1,4 +1,4 @@
-#### Vaccine
+## Vaccine
 1. Intro
 2. process of development
 3. process of working
@@ -50,3 +50,19 @@
      
 10. Conclusion
     1.  Vaccines are a triumph of medicine, crucial for controlling infectious diseases and global health security. Addressing challenges like hesitancy and inequity, while fostering innovation in vaccine platforms, is essential for preparing for future health crises.
+
+
+
+---
+
+## Current Updates
+
+### Reverse Vaccinology
+1. How it works
+   1. Complete Genome sequencing of the pathogen
+   2. epitome[weak points] identification to attack
+   3. in-silico: fully relies on computational power - not much lab testing required
+2. bioinformatics and computational analysis to identify potential vaccine targets within pathogen genomes - coined by ***Rino Rappuoli in 2000.***
+3. Origin: First applied to Neisseria meningitidis (MenB) vaccine development
+4. Successfully used against ***B. anthracis, S. pneumoniae, M. tuberculosis***
+5. 1st step towards ***pneumonia vaccine***

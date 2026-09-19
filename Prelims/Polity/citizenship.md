@@ -8,3 +8,8 @@
 4. Indian Diaspora: 3.5 crore - largest in the world
    1. India received USD 143.6 billion in remittances in FY26 ( >10 of Curr Ac Receipts)
       1. US: 27% share - largest
+5. Citizen can become HEAD OF THE STATE
+   1. unlike USA - CITIZEN BY BIRTH ONLY
+   2. India: acquired citizenship eligible for HoS pos
+6. Uttrakhand High Court Verdice (2010)
+   1. property can be at multiple states, but only ONE DOMICILE ALLOWED

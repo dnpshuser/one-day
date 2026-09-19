@@ -27,9 +27,39 @@
 27. dissent: to have opinions that are different to those that are officially held
 28. Essence means the basic or most important quality of something that makes it what it is
 29. muster: to find as much support, courage, etc. as you can
-
-
-
-
+30. Pretence: an action that makes people believe something that is not true
+31. jurisprudence: iurisprudentia, which means "the science or knowledge of law"
+32. restraint: the quality of behaving in a calm or controlled way, a limit or control on something
+33. Democracy is a system of government where power belongs to the people, who rule either directly or through elected leaders.
+34. A caprice is a sudden, unpredictable change of mind, behavior, or attitude without any clear motivation
+35. reverence: a feeling of great respect
+36. Paramount most commonly means superior to all others or supreme,
+37. Arbiters are people or things with the power to make a final decision, judge a dispute, or influence standards
+38. transcend: to go further than the usual limits of something
+39. spirit: the part of a person that is not physical; your thoughts and feelings, not your body, aatma
+40. mere: (used for emphasizing how small or unimportant something is) nothing more than
+41. prejudice: a strong unreasonable feeling of not liking or trusting somebody/something, especially when it is based on their race, religion or sex
+42. amorphous: having no definite shape, form or structure
+43. An abettor is someone who encourages, helps, or instigates another person to commit a crime or do something wrong. 
+44. colloquial: (used about words, phrases, etc.) used in spoken conversation, not in formal situations
+45. menace(n): 
+    1.  a danger or threat - The new road is a menace to everyone’s safety.
+    2.  a quality, feeling, etc. that is threatening or frightening - He spoke with menace in his voice.
+46. ammunition: loaded assembly of bullets
+47. tumultuous(adj): very noisy, because people are excited - tumultuous applause
+48. Federalism divides power vertically between two different geographic tiers (Centre $\leftrightarrow$ Province).
+49. Dyarchy divides power horizontally at the exact same geographic tier (within the Province in 1919; or within the Centre as proposed in 1935).
+50. cripple: to damage somebody’s body so that they are no longer able to walk or move normally
+    1.  to seriously damage or harm somebody/something
+    2.  Crippled is an adjective and a verb meaning severely damaged, weakened, or unable to move normally.
+51. silo means operating in isolation, where individuals, teams, or entire departments refuse or fail to share information, resources, and goals with the rest of an organization
+52. incarceration: बंदीकरण कैद
+53. watershed means a crucial turning point, a milestone, or a defining moment that marks a major change in course.
+54. arbitrary: unfair
+55. bodily integrity
+56. innocuous: not meant to cause harm or upset somebody
+57. A chilling effect is when people hold back from exercising their legal rights—such as free speech—because they fear punishment, lawsuits, or social backlash
+58. malign: to say or write bad things about somebody/something publicly especially in a unfair manner
+59. rout: to defeat somebody completely
 
 

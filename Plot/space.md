@@ -4,7 +4,7 @@
 2. 1963 Nov 21: launched Nike-Apache sounding rocket from the Thumba Equatorial Rocket Launching Station (TERLS) in Kerala.
 3. 1969: ISRO replaced INCOSPAR.
 4. 1975: first indigenous satellite: ARYABHATA with a Soviat launch vehicle.
-5. 1980: SLV-3(Satellite Launch Vehicle) placed Rohini RS-1 satellite into orbit - India became 7th nation with satellite launch capabil.
+5. 1980: SLV-3(Satellite Launch Vehicle) placed Rohini RS-1 satellite into orbit - India became 7th nation with satellite launch capability.
 6. 1990 - PSLV started
 7. GSLV developed
 8. 2017 - PSLV launched 104 satellites in a single mission[Mission Name: *PSLV-C37 / Cartosat-2 Series Satellite Mission*]

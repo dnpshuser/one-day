@@ -42,3 +42,27 @@
    - Strenghten public healthcare which should be a credible alternative instead of last resort
    - Reform PM-JAY to include quality checks instead of measuring volumes 
    - ![alt text](image.png)
+
+
+### Childcare and New Born issues
+1. Data: India: 39%(2005-06) -> ~90%(2023-34) institutional delivery
+
+> Challenges/Issue: newborns are increasingly dying inside the very facilities meant to protect them.
+1. Overcrowding Crisis: Sick newborn admissions rose 28% in just two years - from 11.3 lakh to 14.45 lakh.
+2. Government hospitals now receive more premature, low-birth-weight and critically ill referrals - requiring specialised equipment and continuous monitoring
+3. Infrastructure Failures Oxygen crises (Gorakhpur 2017) and fires (Bhandara, Bhopal, Jhansi, Amravati) expose deep vulnerabilities in fire safety, electrical systems and emergency preparedness.
+4. Staffing & Infection Inadequate nurse-to-baby ratios and weak infection-control practices endanger  vulnerable newborns. Adding beds without strengthening human resources will not reduce neonatal mortality.
+
+> Way Forward
+1. THE GADCHIROLI MODEL: Proven: Community Care Works
+   1. trained community health workers could deliver home-based neonatal care 
+   2. achieving a measurable reduction in neonatal mortality in rural populations.
+   3. Favourable setup
+      1. 8Lakhs+ ASHAs
+      2. Not every newborn baby requires hospital bed - stable babies can thrive at home
+   4. 3 part strategy
+      1. expand ASHa and home based delivery
+      2. Strenghten Hospital human resource
+      3. Secure Infrastructure
+
+> Conc: Quality and resilience - not mere bed capacity - must define the next phase of India's neonatal health investment with Hospital + Home infrastructure
