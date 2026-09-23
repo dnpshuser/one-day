@@ -9,7 +9,7 @@
       5. Mediyettu(Kerala) - 2010
       6. Kalbelia Folk Songs and Dances(Raj) - 2010
       7. Chhau Dance - 2010
-      8. Buddhist Chanting od Ladakh - 2012
+      8. Buddhist Chanting of Ladakh - 2012
       9. Sankirtana(Manipur) - 2013
       10. Traditional Brass and Copper Craft of Utensil Making(Punjab) - 2014
       11. Yoga - 2016

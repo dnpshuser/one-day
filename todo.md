@@ -1,0 +1,1 @@
+1. Check if you can get a pdf of daily newspaper - complete pdf

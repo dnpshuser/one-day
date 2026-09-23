@@ -61,5 +61,17 @@
 57. A chilling effect is when people hold back from exercising their legal rights—such as free speech—because they fear punishment, lawsuits, or social backlash
 58. malign: to say or write bad things about somebody/something publicly especially in a unfair manner
 59. rout: to defeat somebody completely
-
-
+60. Vehemently means doing something with intense emotion, great force, or passionate energy
+61. impending: (usually used about something bad) that will happen soon
+62. cohesion: the ability to stay or fit together well
+63. politicking: political activity to win support or get votes for yourself or for a political party
+64. Coextensive means having the same limits, boundaries, area, scope, or duration in space or time
+65. subsidiary: connected with something but less important than it
+66. inmate: one of the people living in an institution such as a prison
+67. languish: to be forced to stay somewhere or suffer something unpleasant for a long time
+68. Paramount means more important than anything else, or supreme in rank and authority. 
+69. dire: very bad or serious; terrible
+70. prerogative: a special right that somebody/something has
+    1.  A prerogative is a special right, choice, or privilege that belongs to a specific person or group. When you say something is "your prerogative," you mean it is your absolute right to decide or act how you want, and you do not need anyone else's permission
+71. Adventurism is the act of taking foolish, reckless, or dangerous risks—especially in politics, foreign affairs, or business—without proper planning or regard for rules.
+72. apathy: the feeling of not being interested in or enthusiastic about anything
