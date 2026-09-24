@@ -264,3 +264,45 @@ The 16th FC allocated ₹4.35 lakh crore for Rural Local Bodies (an 84% hike) an
 
 * Local Self Governments are the foundational bedrock of India's democratic architecture, tasked with translating high-level constitutional promises into tangible, daily realities for over a billion citizens.
 * Realizing true 'Swaraj' requires state governments to shed their centralizing tendencies and fully empower these institutions with the 3Fs, transforming them from mere implementation agencies into vibrant, self-sustaining units of local governance.
+
+## PYQs
+
+Analyse the role of local bodies in providing good governance at local level and bring
+out the pros and cons merging the rural local bodies with the urban local bodies. 2024 10
+
+
+“The states in India seem reluctant to empower urban local bodies both functionally
+as well as financially.” Comment.
+2023 10
+
+
+To what extent, in your opinion, has the decentralisation of power in India changed
+the governance landscape at the grassroots ? 2022 10
+
+
+The strength and sustenance of local institutions in India has shifted from their
+formative phase of ‘Functions, Functionaries and Funds’ to the contemporary stage
+of ‘Functionality’. Highlight the critical challenges faced by local institutions in terms
+of their functionality in recent times.
+2020 15
+
+
+“The reservation of seats for women in the institutions of local self- government has
+had a limited impact on the patriarchal character of the Indian Political Process.”
+Comment.
+2019 15
+
+
+Assess the importance of Panchayat system in India as a part of local government.
+Apart from government grants, what sources the Panchayats can look out for financing developmental projects.
+2018 15
+
+
+“The local self-government system in India has not proved to be effective instrument of governance”. Critically examine the statement and give your views to
+improve the situation.
+2017 10
+
+
+In absence of a well-educated and organized local level government system, `Panchayats’ and ‘Samitis’ have remained mainly political institutions and not effective
+instruments of governance. Critically discuss.
+2015 12.5

@@ -75,3 +75,13 @@
     1.  A prerogative is a special right, choice, or privilege that belongs to a specific person or group. When you say something is "your prerogative," you mean it is your absolute right to decide or act how you want, and you do not need anyone else's permission
 71. Adventurism is the act of taking foolish, reckless, or dangerous risks—especially in politics, foreign affairs, or business—without proper planning or regard for rules.
 72. apathy: the feeling of not being interested in or enthusiastic about anything
+73. delegate: to give somebody with a lower job or position a particular task to do
+74. Enshrine means to protect, preserve, or cherish something as sacred
+75. emulate: to try to do something as well as, or better than, somebody
+76. A linchpin is the single most important person, thing, or element that holds a system, group, or plan together and makes it work.
+77. capricious: changing behaviour suddenly in a way that is difficult to predict
+78. stall: (used about a vehicle) to stop suddenly because the engine is not receiving enough power; to make a vehicle do this accidentally
+    1.  to avoid doing something or to try to stop something happening until a later time
+79. therefrom: wanhase: connected with or from the thing mentioned
+80.  is a verb that means to belittle, insult, or detract from the value, importance, or authority of something or someone.
+81.  deliberation: discussion or thinking about something in detail; the quality of being very slow and careful in what you say and do

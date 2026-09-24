@@ -15,3 +15,9 @@
    3. Parliamentary Disruptions
    4. States' decreased Financial Power
    5. SC/ST sub-categorization
+3. 24th Sept:
+   1. Parliament's hasty bill passage without much deliberation
+   2. Speaker's partisanship image
+   3. Abuse of Money bill route: ordinary bills passage through endorced money bill.
+   4. Women severely underrepresented in Judiciary
+   5. Pressure Groups - Environmental
