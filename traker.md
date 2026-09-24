@@ -21,3 +21,9 @@
    3. Abuse of Money bill route: ordinary bills passage through endorced money bill.
    4. Women severely underrepresented in Judiciary
    5. Pressure Groups - Environmental
+4. 25th Sept
+   1. Parliamentary Committee
+   2. Bicameralism
+   3. Representation of People's Act
+   4. Attorney General - roles/importance
+   5. BNSS

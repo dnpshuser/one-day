@@ -85,3 +85,11 @@
 79. therefrom: wanhase: connected with or from the thing mentioned
 80.  is a verb that means to belittle, insult, or detract from the value, importance, or authority of something or someone.
 81.  deliberation: discussion or thinking about something in detail; the quality of being very slow and careful in what you say and do
+82.  plummet: to fall suddenly and quickly from a high level or position
+83.  din: a lot of unpleasant noise that continues for some time
+84.  ratify: to make an agreement officially acceptable by voting for or signing it
+85.  strip: to take off your clothes; to take off somebody else’s clothes; eg: The doctor asked him to strip to the waist. to take something away from somebody/something, eg: They stripped the house of all its furniture.
+86.  pilot: to lead somebody/something through a difficult situation
+87.  Substantive means important, real, or having a solid basis in essential facts rather than being minor or apparent
+88.  Railroading means forcing a situation, person, or discussion toward a predetermined outcome with speed or unfair pressure
+89.  charade: a situation or event that is clearly false but in which people pretend to do or be something

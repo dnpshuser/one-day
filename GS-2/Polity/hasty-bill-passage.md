@@ -131,4 +131,4 @@ The trend accelerates. According to PRS data, 11 out of 12 Bills introduced in t
 ## 14. Conclusion
 
 * The primary function of Parliament is not to agree with the government, but to hold it accountable. Passing laws in minutes without debate or committee scrutiny reduces the world's largest democracy to a procedural formality.
-* To restore the sanctity of the legislature, structural reforms mandating committee referrals and ensuring adequate debate time are imperative. Without this, the laws governing the nation will reflect executive convenience rather than democratic consensus.
+* To restore the sanctity of the legislature, structural reforms mandating committee referrals and ensuring adequate debate time are imperative. Without this, the laws governing the nation will reflect ***executive convenience rather than democratic consensus.***
