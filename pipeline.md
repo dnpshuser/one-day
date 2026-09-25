@@ -8,6 +8,8 @@
 - ~~SC/ST sub-categorization~~
 - SC/FC tenure - const comp
 - Presidential immunity from criminal cases - const comp
+- AI Risk to humanity
+
 
 
 
@@ -18,3 +20,4 @@
 - Delegated Legislation overreach
 - Parliamentary Sovereignty
 - prolonged vacancy of the Deputy Speaker
+- ISRO - chaning priorities

@@ -27,3 +27,27 @@
    3. Representation of People's Act
    4. Attorney General - roles/importance
    5. BNSS
+5. 26th Sept:
+   1. AI Risk to Humanity - AI Governance
+   2. Urbanization
+      1. Urban Water Management
+      2. Urban Planning
+      3. Urban poverty and Migration
+      4. Emerging Urbanization Trends
+   3. Diversity and Pluralism
+   4. Tribes and Related Issues
+   5. Family
+6. 27th Sept: 
+   1. Population and associated issues
+   2. Poverty and Related Issues
+   3. Development and Related Issues
+   4. Women and Associated concerns
+   5. Environmental Issues
+7. 28th Sept: 
+   1. Globalisation
+   2. Caste System
+   3. Communalism
+   4. Regionalism
+   5. Secularism
+8. 29th Sept
+   1. Social Empowerment
