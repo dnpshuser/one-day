@@ -94,12 +94,16 @@
 88.  Railroading means forcing a situation, person, or discussion toward a predetermined outcome with speed or unfair pressure
 89.  charade: a situation or event that is clearly false but in which people pretend to do or be something
 90.  jurisprudence: the theory or philosophy of law: क़ानून के दर्शन या सिद्धांत धर्मशास्त्र न्यायशास्त्र; a legal system - न्याय प्रणाली
-juvenile: of, for or involving young people who are not yet adults. किशोरों का, के लिए या को शामिल करते हुए बाल अल्पवयस्क; behaving like somebody of a younger age; childish- कम आयु के व्यक्ति के समान बरताव करने वाला बचकाना
-embodiment जीता-जागता नमूना मूर्त रूप
-solidarity the support of one group of people for another, because they agree with their aims
-scant   not very much; not as much as necessary
-acquit   to state formally that a person is not guilty of a crime किसी के निर्दोष होने की विधिवत घोषणा करना; to behave in the way that is mentioned आशा या अपेक्षा के अनुसार व्यवहार करना कर्तव्य निभाना
-autopsy  an examination of a dead body to find out the cause of death
-Demonised is the past tense and past participle of the verb demonise (or demonize in American English), which means to portray or describe someone or a group of people as completely evil, wicked, or threatening
-reckoning  the act of calculating something, especially in a way that is not very exact; a time when somebody’s actions will be judged to be right or wrong and they may be punished
-patchy  existing or happening in some places but not others; not complete; good in some parts but not in others
+91.  juvenile: of, for or involving young people who are not yet adults. किशोरों का, के लिए या को शामिल करते हुए बाल अल्पवयस्क; behaving like somebody of a younger age; childish- कम आयु के व्यक्ति के समान बरताव करने वाला बचकाना
+92.  embodiment जीता-जागता नमूना मूर्त रूप
+93.  solidarity the support of one group of people for another, because they agree with their aims
+94.  scant   not very much; not as much as necessary
+95.  acquit   to state formally that a person is not guilty of a crime किसी के निर्दोष होने की विधिवत घोषणा करना; to behave in the way that is mentioned आशा या अपेक्षा के अनुसार व्यवहार करना कर्तव्य निभाना
+96.  autopsy  an examination of a dead body to find out the cause of death
+97.  Demonised is the past tense and past participle of the verb demonise (or demonize in American English), which means to portray or describe someone or a group of people as completely evil, wicked, or threatening
+98.  reckoning  the act of calculating something, especially in a way that is not very exact; a time when somebody’s actions will be judged to be right or wrong and they may be punished
+99.  patchy  existing or happening in some places but not others; not complete; good in some parts but not in others
+100. repudiate  to say that you refuse to accept or believe something खंडन करना किसी बात को स्वीकार करने या मानने से इनकार करना  to repudiate a suggestion/an accusation
+101. albeit  although यद्यपि हालाँकि He finally agreed to come, albeit unwillingly.
+102. probe  to ask questions in order to find out secret or hidden information to examine or look for something, especially with a long thin instrument
+103. A seafarer is a person who works or serves as a crew member aboard a marine vessel like a ship, boat, or commercial cargo carrier

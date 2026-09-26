@@ -6,9 +6,10 @@
 - ~~Local Self Gov~~
 - ~~Parliamentary Disruptions~~
 - ~~SC/ST sub-categorization~~
+- ~~AI Risk to humanity~~
+- Declining UN - India Impact(+-), still important in current world - what are the importance - AI Gov, poor Nation get heard
 - SC/FC tenure - const comp
 - Presidential immunity from criminal cases - const comp
-- AI Risk to humanity
 
 
 

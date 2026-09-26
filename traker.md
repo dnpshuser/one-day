@@ -34,15 +34,12 @@
       2. Urban Planning
       3. Urban poverty and Migration
       4. Emerging Urbanization Trends
-   3. Diversity and Pluralism
-   4. Tribes and Related Issues
-   5. Family
 6. 27th Sept: 
-   1. Population and associated issues
-   2. Poverty and Related Issues
-   3. Development and Related Issues
-   4. Women and Associated concerns
-   5. Environmental Issues
+   1. Diversity and Pluralism
+   2. Tribes and Related Issues
+   3. Family
+   4. Population and associated issues
+   5. Poverty and Related Issues
 7. 28th Sept: 
    1. Globalisation
    2. Caste System
@@ -51,3 +48,11 @@
    5. Secularism
 8. 29th Sept
    1. Social Empowerment
+   2. Gig Worker
+   3. Development and Related Issues
+   4. Women and Associated concerns
+   5. Environmental Issues
+9. 30th Sept:
+   1.  Waste
+   2.  Health
+   3.  Education
