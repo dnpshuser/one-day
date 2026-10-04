@@ -21,7 +21,7 @@
 3. Per Capita Income(NSO): Bihar-lowest, Tn: top ranker
 
 ## Dilemma
-1. *Path A (Strict Population Basis):* A-84: Constitutional mandate of uniform population wise seat allocation
+1. *Path A (Strict Population Basis):* A-81: Constitutional mandate of uniform population wise seat allocation
 2. *Path B (Continue Freeze):* Violation of ONE PERSON ONE VOTE
 
 ## Diagram
@@ -157,3 +157,37 @@ The constitutional embargo on altering state-wise seat allocation is set to expi
 
 * The post-2026 delimitation exercise is not merely a mathematical readjustment of boundaries; it is perhaps the most severe test of India's asymmetric federalism since independence.
 * A solution based purely on demographic majoritarianism will punish states for their developmental success and risk alienating the South. A delicate, consensus-driven compromise—likely involving an expansion of the Lok Sabha and a restructuring of the Rajya Sabha—is essential to preserve the spirit of *federal equilibrium* and national unity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

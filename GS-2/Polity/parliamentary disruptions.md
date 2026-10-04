@@ -64,11 +64,6 @@ A historic low. 146 MPs (100 from LS, 46 from RS) were suspended after protestin
 
 ## 6. Indices
 
-*(Note: Domestic parliamentary procedures affect broader governance rankings)*
-
-* **Democracy Index (Economist Intelligence Unit):** India's score on "Functioning of Government" is negatively impacted when the legislature fails to hold the executive accountable due to constant disruptions or when massive bills are passed without opposition presence.
-* **Rule of Law Index (World Justice Project):** Passing foundational laws (like the new criminal codes) without adequate opposition debate undermines the "Open Government" and "Regulatory Enforcement" perception metrics.
-* **Freedom in the World (Freedom House):** Ranks political rights. The mass suspension of 146 MPs inherently reduces the political representation of millions of voters, affecting this metric.
 
 ## 7. Global comparison
 
@@ -123,4 +118,4 @@ A historic low. 146 MPs (100 from LS, 46 from RS) were suspended after protestin
 ## 14. Conclusion
 
 * Parliamentary disruptions are a symptom of a deeper malaise: a breakdown in communication and trust between the executive and the opposition.
-* While enforcing discipline through rules like 374A is necessary for order, the ultimate solution lies in fostering a parliamentary culture where the government is responsive to debate, and the opposition acts responsibly, ensuring that the temple of democracy does not become a casualty of partisan warfare.
+* While enforcing discipline through rules like 374A is necessary for order, the ultimate solution lies in fostering a parliamentary culture where the government is responsive to debate, and the opposition acts responsibly, ensuring that the temple of democracy does not become a casualty of partisan warfare. 

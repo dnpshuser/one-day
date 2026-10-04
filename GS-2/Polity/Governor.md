@@ -232,38 +232,6 @@ The Supreme Court explicitly ruled that a Governor cannot "veto" a state legisla
 
 # Governor's inaction and pending bills
 
-
-## 1. Intro
-
-* Under Article 200 of the Constitution, a Bill passed by a State Legislature must be presented to the Governor, who can assent, withhold assent, return it (if not a Money Bill), or reserve it for the President.
-* The escalating constitutional crisis of Governors sitting on bills indefinitely (effectively using an unwritten "pocket veto") has created a severe choke point in Centre-State relations, paralyzing the legislative mandate of democratically elected state governments.
-
-
-## 2. Sub-components of the topic [most imp]
-
-* **Article 200 Options:** The four explicit paths: Assent, Withhold, Return for reconsideration, or Reserve for the President (Article 201).
-* **The "As Soon As Possible" Clause:** The first proviso to Article 200 states that the Governor "may, as soon as possible... return the Bill" if it is not a Money Bill. This phrase is the crux of the legal battle over indefinite delays.
-* **The Mandatory Assent (Repassage):** If the Governor returns a bill and the State Legislature passes it again (with or without amendments), the Governor *shall not* withhold assent.
-* **The Pocket Veto Loophole:** Because the Constitution does not prescribe a specific mathematical time limit (like 30 or 60 days) for the Governor to act, Governors have weaponized the silence to simply sit on bills for years.
-* **Article 201 (Presidential Consideration):** When a Governor reserves a bill, their role ends. The President can assent, withhold, or return the bill. Unlike the Governor, if the state repasses the bill, the President is *still* not bound to give assent.
-* **Conflict of Democratic Mandate:** The core friction is an unelected, centrally nominated functionary stalling the legislative agenda of an elected government that enjoys the mandate of the people.
-* **The Invalid "Withhold then Reserve" Route:** Recent litigation highlighted attempts by Governors to withhold assent first, and when the state re-passed the bill, attempting to refer it to the President to escape the mandatory assent rule.
-
-
-
-
-
-
-
-
-
-
-
-
-
----
----
-
 ## 1. Intro
 
 * Under Article 200 of the Constitution, a Bill passed by a State Legislature must be presented to the Governor, who can assent, withhold assent, return it (if not a Money Bill), or reserve it for the President.
@@ -320,14 +288,6 @@ The SC further clarified that once a Governor withholds assent and the Assembly 
 * **Punchhi Commission (2010):** The most critical report on this issue. It explicitly recommended amending the Constitution to impose a strict time limit of six months for the Governor to act on a Bill under Article 200.
 * **Sarkaria Commission (1988):** Recommended that if a Governor reserves a bill for the President, the reasons must be communicated to the State Government. It also stated that the Governor should not withhold assent to a bill passed by a majority merely because they disagree with the policy.
 * **National Commission to Review the Working of the Constitution (NCRWC, 2002):** Recommended that a time limit of four months should be prescribed for the Governor to decide on a bill, and similarly, a time limit of six months should be set for the President to decide on reserved state bills.
-
-## 6. Indices
-
-*(Note: As this is a procedural constitutional issue, it indirectly affects broader governance metrics)*
-
-* **Rule of Law Index (World Justice Project):** When unelected officials bypass constitutional conventions and paralyze the legislative process, the "Constraints on Government Powers" and "Due Process" metrics for the state take a severe hit.
-* **Good Governance Index (GGI - India):** States embroiled in these constitutional deadlocks (e.g., Kerala, Tamil Nadu) see administrative delays in critical sectors (like university appointments and public health reforms), dragging down their state GGI scores.
-* **Democracy Index (EIU):** The subversion of a democratically elected state legislature's mandate by an appointed central agent degrades the "Functioning of Government" parameter.
 
 ## 7. Global comparison
 
@@ -457,14 +417,6 @@ A landmark 7-judge Constitution Bench definitively ruled that the Governor's sat
 * **Law Commission of India (Various Observations):** Has historically cautioned against the excessive use of executive legislation, emphasizing that laws must emerge through parliamentary debate to ensure democratic legitimacy and public consensus.
 * **National Commission to Review the Working of the Constitution (NCRWC, 2002):** Re-emphasized the *D.C. Wadhwa* principle, stating that the ordinance-making power must be strictly limited to unforeseen urgencies and must not be used as a political convenience to bypass a hostile legislative council.
 * **PRS Legislative Research Reports:** Frequently track the surge in ordinance usage across various states and at the Centre, objectively highlighting how complex, permanent policy shifts (like land acquisition or farm laws) are often introduced via ordinances, circumventing committee scrutiny.
-
-## 6. Indices
-
-*(Note: As this is a procedural constitutional issue, it indirectly affects broader governance metrics)*
-
-* **Rule of Law Index (World Justice Project):** The "Constraints on Government Powers" and "Open Government" metrics drop significantly when the executive (Governor/CM) bypasses the legislature, removing the primary check on executive authority.
-* **Democracy Index (Economist Intelligence Unit):** The "Functioning of Government" and "Political Culture" parameters are degraded when democratic institutions (like state assemblies) are systematically sidelined by "Ordinance Raj."
-* **Good Governance Index (GGI - India):** States that rely heavily on ordinances often reflect poor legislative productivity and deeper political instability, negatively impacting their overall governance perception.
 
 ## 7. Global comparison
 

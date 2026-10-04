@@ -47,7 +47,7 @@
     2.  a quality, feeling, etc. that is threatening or frightening - He spoke with menace in his voice.
 46. ammunition: loaded assembly of bullets
 47. tumultuous(adj): very noisy, because people are excited - tumultuous applause
-48. Federalism divides power vertically between two different geographic tiers (Centre $\leftrightarrow$ Province).
+48. Federalism divides power vertically between two different geographic tiers (Centre <-> Province).
 49. Dyarchy divides power horizontally at the exact same geographic tier (within the Province in 1919; or within the Centre as proposed in 1935).
 50. cripple: to damage somebody’s body so that they are no longer able to walk or move normally
     1.  to seriously damage or harm somebody/something
@@ -83,27 +83,69 @@
 78. stall: (used about a vehicle) to stop suddenly because the engine is not receiving enough power; to make a vehicle do this accidentally
     1.  to avoid doing something or to try to stop something happening until a later time
 79. therefrom: wanhase: connected with or from the thing mentioned
-80.  is a verb that means to belittle, insult, or detract from the value, importance, or authority of something or someone.
-81.  deliberation: discussion or thinking about something in detail; the quality of being very slow and careful in what you say and do
-82.  plummet: to fall suddenly and quickly from a high level or position
-83.  din: a lot of unpleasant noise that continues for some time
-84.  ratify: to make an agreement officially acceptable by voting for or signing it
-85.  strip: to take off your clothes; to take off somebody else’s clothes; eg: The doctor asked him to strip to the waist. to take something away from somebody/something, eg: They stripped the house of all its furniture.
-86.  pilot: to lead somebody/something through a difficult situation
-87.  Substantive means important, real, or having a solid basis in essential facts rather than being minor or apparent
-88.  Railroading means forcing a situation, person, or discussion toward a predetermined outcome with speed or unfair pressure
-89.  charade: a situation or event that is clearly false but in which people pretend to do or be something
-90.  jurisprudence: the theory or philosophy of law: क़ानून के दर्शन या सिद्धांत धर्मशास्त्र न्यायशास्त्र; a legal system - न्याय प्रणाली
-91.  juvenile: of, for or involving young people who are not yet adults. किशोरों का, के लिए या को शामिल करते हुए बाल अल्पवयस्क; behaving like somebody of a younger age; childish- कम आयु के व्यक्ति के समान बरताव करने वाला बचकाना
-92.  embodiment जीता-जागता नमूना मूर्त रूप
-93.  solidarity the support of one group of people for another, because they agree with their aims
-94.  scant   not very much; not as much as necessary
-95.  acquit   to state formally that a person is not guilty of a crime किसी के निर्दोष होने की विधिवत घोषणा करना; to behave in the way that is mentioned आशा या अपेक्षा के अनुसार व्यवहार करना कर्तव्य निभाना
-96.  autopsy  an examination of a dead body to find out the cause of death
-97.  Demonised is the past tense and past participle of the verb demonise (or demonize in American English), which means to portray or describe someone or a group of people as completely evil, wicked, or threatening
-98.  reckoning  the act of calculating something, especially in a way that is not very exact; a time when somebody’s actions will be judged to be right or wrong and they may be punished
-99.  patchy  existing or happening in some places but not others; not complete; good in some parts but not in others
-100. repudiate  to say that you refuse to accept or believe something खंडन करना किसी बात को स्वीकार करने या मानने से इनकार करना  to repudiate a suggestion/an accusation
-101. albeit  although यद्यपि हालाँकि He finally agreed to come, albeit unwillingly.
-102. probe  to ask questions in order to find out secret or hidden information to examine or look for something, especially with a long thin instrument
-103. A seafarer is a person who works or serves as a crew member aboard a marine vessel like a ship, boat, or commercial cargo carrier
+80.  deliberation: discussion or thinking about something in detail; the quality of being very slow and careful in what you say and do
+81.  plummet: to fall suddenly and quickly from a high level or position
+82.  din: a lot of unpleasant noise that continues for some time
+83.  ratify: to make an agreement officially acceptable by voting for or signing it
+84.  strip: to take off your clothes; to take off somebody else’s clothes; eg: The doctor asked him to strip to the waist. to take something away from somebody/something, eg: They stripped the house of all its furniture.
+85.  pilot: to lead somebody/something through a difficult situation
+86.  Substantive means important, real, or having a solid basis in essential facts rather than being minor or apparent
+87.  Railroading means forcing a situation, person, or discussion toward a predetermined outcome with speed or unfair pressure
+88.  charade: a situation or event that is clearly false but in which people pretend to do or be something
+89.  jurisprudence: the theory or philosophy of law: क़ानून के दर्शन या सिद्धांत धर्मशास्त्र न्यायशास्त्र; a legal system - न्याय प्रणाली
+90.  juvenile: of, for or involving young people who are not yet adults. किशोरों का, के लिए या को शामिल करते हुए बाल अल्पवयस्क; behaving like somebody of a younger age; childish- कम आयु के व्यक्ति के समान बरताव करने वाला बचकाना
+91.  embodiment जीता-जागता नमूना मूर्त रूप
+92.  solidarity the support of one group of people for another, because they agree with their aims
+93.  scant   not very much; not as much as necessary
+94.  acquit   to state formally that a person is not guilty of a crime किसी के निर्दोष होने की विधिवत घोषणा करना; to behave in the way that is mentioned आशा या अपेक्षा के अनुसार व्यवहार करना कर्तव्य निभाना
+95.  autopsy  an examination of a dead body to find out the cause of death
+96.  Demonised is the past tense and past participle of the verb demonise (or demonize in American English), which means to portray or describe someone or a group of people as completely evil, wicked, or threatening
+97.  reckoning  the act of calculating something, especially in a way that is not very exact; a time when somebody’s actions will be judged to be right or wrong and they may be punished
+98.  patchy  existing or happening in some places but not others; not complete; good in some parts but not in others
+99.  repudiate  to say that you refuse to accept or believe something खंडन करना किसी बात को स्वीकार करने या मानने से इनकार करना  to repudiate a suggestion/an accusation
+100. albeit  although यद्यपि हालाँकि He finally agreed to come, albeit unwillingly.
+101. probe  to ask questions in order to find out secret or hidden information to examine or look for something, especially with a long thin instrument
+102. A seafarer is a person who works or serves as a crew member aboard a marine vessel like a ship, boat, or commercial cargo carrier
+103. slam  to shut or make something shut very loudly and with great force ऊँची आवाज़ के साथ ज़ोर से दरवाज़ा बंद हो जाना या उसे बंद कर देना I heard the front door slam.; to put something somewhere very quickly and with great force किसी वस्तु को बहुत तेज़ी और ज़ोर से कहीं रख देना पटक देना He slammed the book down on the table and stormed out.; Slams means to strongly and harshly criticize or condemn someone in public.
+104. deceit  dishonest behaviour; trying to make somebody believe something that is not true धोखाधड़ी चालबाज़ी बहकाने का प्रयास बहकावा फ़र्ज़ीवाड़ा Their marriage eventually broke up because she was tired of his lies and deceit.
+105. podium  a small platform for a speaker, a performer, etc. to stand on छोटा मंच जिस पर वक्ता, कलाकार आदि खड़े होते हैं
+106. Homilies are religious discourses or commentaries delivered during a worship service to explain scripture and offer moral encouragement
+107. fortify  to make a place stronger and ready for an attack हमले का सामना करने के लिए किसी स्थान को मज़बूत और तैयार करना क़िलाबंदी करना; to add something (nutrients, alcohol etc.) to improve the quality and strength of food or drink Health drinks are fortified with vitamins and proteins.
+108. feud  an angry and serious argument between two people or groups that continues over a long period of time; दो व्यक्तियों या व्यक्ति-समूहों के बीच लंबे समय तक चलने वाला झगड़ा पुश्तैनी रंजिश a family feud within a family or between two families
+109. throb  to make strong regular movements or noises; to beat strongly धुकधुक करना धड़कना Her finger throbbed with pain.
+110. contention  arguing; disagreement विवाद झगड़ा असहमति; your opinion; something that you say is true दृष्टिकोण कथन मत The government’s contention is that unemployment will start to fall next year.
+111. belittle  to make somebody or the things they do seem unimportant or not very good किसी व्यक्ति, कार्य आदि का महत्व घटाना तुच्छ या छोटा समझना
+112. Sinification (also called Sinicization) is the process where non-Chinese societies or internal ethnic groups adopt Chinese culture, language, social norms, or political control
+113. fathom  to understand something किसी बात को समझना I can’t fathom what he means.; a measure of the depth of water; 6 feet (1.8 metres) पानी की गहराई की एक माप छह फ़ीट (1.8 मीटर)
+114. overwhelming: completely engulf
+115. underwhelming: not enough
+116. falter  to become weak or move in a way that is not steady अशक्त होना या अस्थिर होना लड़खड़ाना The engine faltered and stopped;  to lose confidence and determination विश्वास और दृढ़ता खो देना डगमगाना Sampras faltered and missed the ball.
+117. The Thucydides Trap is a political theory stating that when a rising power threatens to displace an established ruling power, the risk of war becomes extremely high
+118. lasting a very short time  - ephemeral
+119. a formal adjective that means extremely bad, shocking, or noticeable in a negative way. - Egregious
+120. a short period of great activity or illness - bout
+121. caught in something else - entangled
+122. Opening a "Pandora's box" means performing an action that seems small or innocent at first, but ultimately unleashes a chaotic, irreversible cascade of great and unexpected troubles - Pandora box
+123. Precarity is the state of having little to no predictability, safety, or stability in life, especially regarding jobs, income, and social support - precarity
+124. the process of replacing traditional middlemen with digital platforms and mobile apps that connect customers directly with independent service providers - Uberization
+125. the origin, creation, or beginning of something - Genesis
+126. "Petered" (usually used as "petered out") means to gradually diminish, weaken, or come to an end
+127. a situation that is the result of an important or unpleasant event - aftermath
+128. to push hard against somebody in a crowd - jostle
+129. formal, uncountable noun that means intense anger, wrath, or fury. - ire
+130. to pronounce words in a way that is not clear, often because you are drunk or an unfair comment or an insult that could damage people’s opinion of somebody/something - slur
+131. (an act of) very cruel treatment of somebody/something - atrocity
+132. very unpleasant - disgusting
+133. connected with sex in a way that most people find disgusting and which causes offence - obscene
+134. shocking to many people in society, especially because something involves sex or the body - indecent
+135. a group of people sent to somebody to act or speak for others - deputation
+136. to support or encourage somebody/something; to make something stronger किसी को प्रोत्साहित करना बढ़ावा या समर्थन देना किसी को अधिक सशक्त बनाना शक्तिवर्द्धन करना - bolster
+137. only concerned with small issues that happen in your local area and not interested in more important things, केवल स्थानीय स्तर पर घटित होनेवाली घटनाओं से संबद्ध न कि अधिक महत्वपूर्ण घटनाओं में: parochial
+138. Abeyance means a temporary state of suspension, inactivity, or waiting.
+139. a situation where a great many things are destroyed and a great many people die - holocaust
+140. not controlled and therefore extreme - unbridled
+141. मानहानि निंदा - defamaition
+142. to make an image change smoothly into another image using computer animation; to change in this way कंप्यूटर एनीमेशन की सहायता से किसी चित्र को बदलना इस तरह किसी चित्र को बदलना; to develop a new appearance or change into something different; to make somebody/something do this नया रूप विकसित करना या करवाना - morph
+143. not to include something or leave something out - omit
+144. an overhead roof or protective covering that provides shelter, shade, or decoration - canopy
+145. "no one should be a judge in their own cause" - *Nemo judex in causa sua*
