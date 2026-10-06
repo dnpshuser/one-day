@@ -149,3 +149,12 @@
 143. not to include something or leave something out - omit
 144. an overhead roof or protective covering that provides shelter, shade, or decoration - canopy
 145. "no one should be a judge in their own cause" - *Nemo judex in causa sua*
+146. lasting or continuing for a short period of time - transient
+147. the quality of being important enough to make it worth protecting and preserving, pavitra - sancity
+148. a defensive wall or a strong person, idea, or thing that protects against danger - bulwark
+149. the feeling that somebody/something is not good enough to be respected - disdane
+150. Subversion is the act of trying to weaken, damage, or secretly overthrow an established system, authority, or government.
+151. A sentinel is a guard or lookout
+152. to go further than the usual limits of something: transcend
+153. having a very harmful or evil effect on somebody/something, in a way that is slow and not easily noticeable - pernicious
+154. ख़तरनाक जोखिम-भरा - perilous
