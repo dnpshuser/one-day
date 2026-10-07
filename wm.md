@@ -158,3 +158,25 @@
 152. to go further than the usual limits of something: transcend
 153. having a very harmful or evil effect on somebody/something, in a way that is slow and not easily noticeable - pernicious
 154. ख़तरनाक जोखिम-भरा - perilous
+155. to make somebody/something poor or lower in quality - impoverish
+156. an official order from a court of law to do/not do something - injunction
+157. To inhere means to exist permanently, naturally, or essentially as an inseparable part, quality, or attribute of something
+158. to correct something that is wrong or unfair - redress
+159. Complicity is the state of being involved with other people in an illegal, wrongful, or morally wrong activity
+160. a violent disagreement between two groups of people, usually criminals or gangs, over who controls a particular area, activity or business - turf war
+161. अपंग बना देने वाला बुरी तरह क्षतिग्रस्त करने वाला - crippling
+162. a situation or statement with two or more parts that seem strange or impossible together; विरोधी विशेषताओं वाला कथन या स्थिति विरोधाभास अंतर्विरोध - paradox
+163. likely to cause argument - contentious
+164. to remove or eliminate unwanted people or things from a group - "Weed out"
+165. an employee who performs manual labor, physical tasks, or skilled trades. - blue-collar worker
+166. to force somebody to do something, for example by threatening them; किसी से कोई कार्य ज़बरदस्ती कराना, जैसे धमकी द्वारा कोई कार्य करने के लिए बाध्य करना - coerce
+167. mostly, mainly, or for the most part - predominantly
+168. a very small village - बहुत छोटा गाँव पुरवा उपग्राम - hamlet
+169. not strong; easily broken or torn कमज़ोर आसानी से टूटने या फटने वाला; weak; not making you believe that something is true दुर्बल अविश्वसनीय - flimsy
+170. one of the people living in an institution such as a prison - inmate
+171. A ledger is a principal book or digital file where a business records and organizes all its financial transactions by account type
+172. an action that makes people believe something that is not true: प्रदर्शन ढोंग दिखावा - pretence
+173. to tell somebody officially that they have done something wrong: (ग़लत काम करने पर) किसी की भर्त्सना करना, फटकार लगाना (औपचारिक रूप से) - reprimand
+174. Rushing to the well in a parliamentary context means legislators leaving their seats to crowd into the open central area in front of the Speaker's podium to protest
+175. an idea or theory that forms the basis for a reasonable line of argument विचार या सिद्घांत जिस पर कोई तर्क आधारित हो He research is based on the premise stated earlier. ' to base something like an argument, etc. on an idea or theory आधार वाक्य के रूप में कहना या पूर्वकथन करना He premised his reasoning on the theory that all people are equally capable of good and evil. - premise
+176. Amputation is the surgical removal or traumatic loss of all or part of a limb or extremity, such as an arm, leg, hand, foot, finger, or toe.
