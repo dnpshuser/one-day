@@ -180,3 +180,33 @@
 174. Rushing to the well in a parliamentary context means legislators leaving their seats to crowd into the open central area in front of the Speaker's podium to protest
 175. an idea or theory that forms the basis for a reasonable line of argument विचार या सिद्घांत जिस पर कोई तर्क आधारित हो He research is based on the premise stated earlier. ' to base something like an argument, etc. on an idea or theory आधार वाक्य के रूप में कहना या पूर्वकथन करना He premised his reasoning on the theory that all people are equally capable of good and evil. - premise
 176. Amputation is the surgical removal or traumatic loss of all or part of a limb or extremity, such as an arm, leg, hand, foot, finger, or toe.
+177. निरुत्साहित करने वाला - daunting
+178. inspiring fear; डर पैदा करने वाला; difficult to deal with; needing a lot of effort जिससे निपटना मुश्किल है विकट प्रयत्नसाध्य His mother is a rather formidable lady - formidable
+179. An echelon is a level, rank, or position of authority within an organization, company, or society
+180. to make something weaker किसी के (विशेषतः) विश्वास या आदेश देने के अधिकार की शक्ति या प्रभाव को शनैः शनैः कम करना, (उसे) क्षति पहुँचाना - undermine - The public’s confidence in the government has been undermined by the crisis.
+181. A ghetto is a part of a city where a specific minority or low-income group lives closely together, often separated from the rest of the population due to social, legal, or economic pressure
+182. to make something seem more interesting, exciting, etc. than it really is किसी चीज़ को रूमानी बनाना (असलियत से अधिक से अधिक रोचक, उत्तेजक आदि बनाना) - romanticize
+183. A scout is a person, aircraft, or ship sent ahead to gather information, or a member of the worldwide youth organization focused on outdoor activities and practical skills
+184. the quality of being too proud of your appearance or abilities घमंड दंभ (अपनी अक़ल या शकल का) - vanity
+185. to have and use power, authority, etc. शक्ति, अधिकार आदि रखना और उनका प्रयोग करना; to hold and be ready to use a weapon हथियार पास रखना और उसे इस्तेमाल करने के लिए तैयार रहना - wield She wields enormous power in the company., Some of the men were wielding knives.
+186. relegate: to put somebody/something into a lower level or position व्यक्ति या वस्तु का स्तर या पद घटाना पदावनत करना The team finished bottom and were relegated to the second division.
+187. the fact of a country, group, etc. achieving independence from the country or larger group that it belongs to देश या समूह द्वारा संबंधित देश या बड़े समूह से स्वतंत्रता की प्राप्ति - secession
+188. Balkanization is the process of dividing a larger region or state into smaller, frequently hostile and independent pieces
+189. (used about something bad) existing or spreading everywhere in a way that is very difficult to control (बुरी चीज़ों का) अनियंत्रित रूप से सर्वत्र विद्यमान होना या फैलना Car theft is rampant in this town. - rampant
+190. a picture or pattern that is made by placing together small coloured stones, pieces of glass, etc. छोटे रंगीन पत्थरों, काँच के टुकड़ों को जमाकर बनाया गया चित्र या पैटर्न चित्रिल चित्र वर्ण योजना पच्चीकारी मोज़ेक - mosaic
+191. A domino effect is a cumulative chain reaction where a single event triggers a sequence of similar or related events.
+192. based on experiments and practical experience, not on ideas - (विचारों के स्थान पर) प्रयोगों और व्यावहारिक अनुभव पर आधारित - empirical
+193. to end something किसी को दबाना या कुचलना दमन करना - quell
+194. to bring back something that has not been used or has not existed for a long time (लंबे समय तक अनुपयुक्त या अनुपस्थिति वस्तु का) पुनर्जीवित करना - resurrect
+195. quo ante is a Latin phrase that means "the state of affairs that existed previously
+196. very old-fashioned; no longer used पुरातनपंथी वर्तमान में अप्रचलित - archaic
+197. Draconian is an adjective meaning extremely severe, harsh, or repressive, especially in reference to rules, laws, or punishments
+198. to make something worse, especially a disease or problem बिगाड़ देना (विशेषतः रोग या समस्या को) - exacerbate
+199. Backsliding means returning to old, undesirable habits, bad behaviors, or a worse moral or spiritual condition after a period of improvement.
+200. बाध्यकारिता ज़ोर-ज़बरदस्ती - coercion
+201. to move very quietly and carefully so that nobody will notice you - चुपचाप और सावधानी से चलना ताकि और कोई देख न सके चुपके-से खिसकना; to move forward slowly धीरे-धीरे आगे बढ़ना - creep
+202. all together and in large numbers - en masse
+203. Perpetually is an adverb meaning in a way that continues forever, lasts for an indefinitely long time, or happens over and over again without stopping - perpetually
+204. One-size-fits-all myopia 
+205.  is the act of getting around a rule, law, obstacle, or restriction, often by using cleverness, strategy, or a loophole - circumvention
+206.  अधीनीकरण वशीकरण दमन - subjugation
