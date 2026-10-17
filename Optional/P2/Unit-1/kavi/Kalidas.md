@@ -1,4 +1,16 @@
 
+| Flaws | Improvements |
+|---|---|
+| **Pervasive Gender & Concord Errors:** Wrote *"उपर्युक्तः पङ्क्तिः लिखितः"*[cite: 42], *"उपमा अत्यन्तः स्वाभाविक"*[cite: 42, 43], and *"शब्दचयनम् अत्यन्तः सरलः"*[cite: 43]. | Correct to proper gender concord: **"उपर्युक्ता पङ्क्तिः लिखिता"**, **"उपमा स्वाभाविकी"**, and **"शब्दचयनं सरलम्"**. |
+| **Declension & Sandhi Failures:** Used incorrect forms like *"आत्यधिकं"*[cite: 42], *"अन्य कोऽपि कवेः"*[cite: 42], *"छन्दस्य"*[cite: 43], and omitted sandhi in *"कालिदास अवर्णयत्"*[cite: 43]. | Apply precise declensions and sandhi: **"अत्यधिकम्"**, **"अन्यस्य कस्यापि कवेः"**, **"छन्दसः"** (from neuter *chandas*), and **"कालिदासोऽवर्णयत्"**. |
+| **Missed:** Textual deconstruction (*vimarda*) of the *Dīpaśikhā* verse[cite: 42]. | Unpack the simile's *dhvani*: explain how each rejected prince's sudden despondency (*vivarṇabhāva*) matches a palace plunged into darkness as the torch passes by. |
+| **Missed:** Specific verse citations for Śṛṅgāra and Karuṇa rasas[cite: 43]. | Cite and analyze specific verses rather than book titles—e.g., Aja-vilāpa (*"गृहिणी सचिवः सखी मिथः..."*) to show how grief deepens upon linguistic contemplation. |
+| **Topic Deviation on Page 2:** Listed generic textbook facts (*7 works, Mandākrāntā, Saptarshi simile*)[cite: 43] instead of proving the sukti. | Remove descriptive trivia; dedicate space entirely to proving why close textual friction (*vimarda*) extracts aesthetic nectar (*rasa/dhvani*). |
+| **Spelling Corruption of Classical Terms:** Wrote *"सप्तरुषः"*[cite: 43] instead of *saptarṣayaḥ*. | Use standard orthography: write **"सप्तर्षयः"** (ऋषि-शब्दस्य प्रथमा-बहुवचनम्). |
+
+---
+
+
 1. *"अस्ति कश्चिद् वाग्विशेषः?"*: KuMeRa
 2. 7 Rachanaye: RaKuMeRiAVikMa: Rag(19)-Kum(17), Meg(2)-Ritu(6), Abhigyan(7)-Vik(5)-Maal(5)
 3. ***'उपमा कालिदासस्य'***

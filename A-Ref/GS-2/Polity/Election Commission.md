@@ -1,5 +1,19 @@
 # Election Commission of India (ECI)
 
+## Answer Evaluation Learnings
+
+| Flaws | Improvements |
+| --- | --- |
+| **Misattributed Article for ECI Powers:** Cited Article 325 for ECI's overarching electoral roll functions. | Cite **Article 324** for plenary superintendence, direction, and control of rolls; cite **Article 325** strictly for the non-discrimination mandate. |
+| **Missed:** Case laws establishing the legal nature of the Right to Vote. | Cite ***PUCL (2003)* / *Kuldip Nayar (2006)*** (statutory right under Sec 62, RPA 1951) and ***Anoop Baranwal (2023)*** (constitutional right under Art 326). |
+| **Legal/Factual Error on Citizenship:** Stated that the ECI cannot question or examine the citizenship of a person. | State that under **Section 16 of RPA 1950**, the Electoral Registration Officer (ERO) has the authority to examine citizenship *prima facie* for voting eligibility (*Lal Babu Hussein, 1995*). |
+| **Self-Contradiction on Assam D-Voters:** Claimed ECI cannot check citizenship, then immediately cited ECI marking "D-Voters". | Frame the institutional boundary: ECI marks **"D-Voters"** on the roll, but conclusive citizenship adjudication is exclusively reserved for **Foreigners Tribunals (1946 Act)** / MHA. |
+| **Clerical Description of Roll Revision:** Framed ECI's role merely as basic clerical data entry (*"adds and deletes names"*). | Frame under statutory powers: EROs exercise quasi-judicial authority to conduct **summary and intensive revisions** under **Sections 21–23 of RPA 1950**, backed by plenary powers under ***Mohinder Singh Gill (1977)***. |
+| **Unasked Padding & Irrelevant Content:** Wrote generic challenges (*"disenfranchisement"*) and foreign comparisons (*"Sweden model"*). | Eliminate off-topic filler completely; allocate that space to directly address the three core sub-questions with statutory sections and case citations. |
+
+
+
+
 ### Additional Focus Areas: The ECI Appointment and Removal Mechanics
 
 **1. How are the CEC and ECs appointed?**
@@ -152,3 +166,6 @@ To shield the institution from political pressure, the Constitution deliberately
 structural autonomy, financial independence and collegial
 transparency preserves the perception of independence
 (स्वतंत्रता की धारणा) and public trust in India's elections.
+
+
+--- 

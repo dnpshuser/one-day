@@ -1,6 +1,3 @@
-Here are the deeply verified, comprehensive UPSC Mains notes on **Constitutional Morality in Jurisprudence**, rigorously structured across the 18-heading framework.
-
-
 
 1. Intro: Constitutional morality is the moral architecture of the Constitution, understanding its underlying spirit, ethos, values (liberty, equality, fraternity, dignity), and institutional self-restraint beyond mere adherence to the strict letter of the Constitution.
 2. Given by George Grote (1846)

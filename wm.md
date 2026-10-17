@@ -210,3 +210,34 @@
 204. One-size-fits-all myopia 
 205.  is the act of getting around a rule, law, obstacle, or restriction, often by using cleverness, strategy, or a loophole - circumvention
 206.  अधीनीकरण वशीकरण दमन - subjugation
+207.  पद या सत्ता का त्याग  abdication
+208.  Ultra vires is a Latin phrase meaning "beyond the powers". In law, it describes any act, decision, or contract performed by an organization, corporation, government body, or official that lies outside the scope of the legal authority granted to them. The opposite term is intra vires, which means "within the powers"
+209.  The nondelegation doctrine is a constitutional principle stating that the Congress of the United States cannot hand over or delegate its core legislative powers to the executive branch, administrative agencies, or private entities
+210.  the fact of having the ability or skill that is needed for something   competence
+211.  Circumvention is the act of going around, bypassing, or avoiding an obstacle, rule, law, or restriction, often using cleverness, strategy, or deception
+212.  to tell somebody officially that they have done something wrong - reprimand
+213.  moving or working more slowly than normal in a way that seems lazy - sluggish
+214.  The word spook primarily functions as a noun meaning a ghost, a spy, or as a verb meaning to frighten or startle someone or something
+215.  polite behaviour that you show towards somebody/something, usually because you respect them - deference
+216.  Coercive is a formal adjective meaning serving, intended, or used to force someone to act against their will through the use of force, intimidation, or threats
+217.  fait accompli - something that has already happened in the past and cannot be changed now
+218.  obscure - not well known, not easy to see or understand जो आसानी से दिखाई पड़े या समझ में ना आए धुँधला या दुर्बोध - to make something difficult to see or understand
+219.  फुरती चपलता - agility
+220.  Unyielding means completely unwilling to change a decision, opinion, or demand, or physically hard, rigid, and resistant to pressure
+221.  The word varsity is a shortened, historical form of the word university. Its meaning varies depending on whether you are in North America or the United Kingdom
+222.  oxymoron - a phrase that combines two words that seem to be the opposite of each other, such as a deafening silence ऐसा वाक्यांश जिसके दोनों शब्द विपरीत या विरोधी अर्थ वाले हैं जैसे कि a deafening silence विरोधालंकार
+223.  brawl - झड़प होना We saw some football fans brawling in the street.
+224.  "cruel kindness" refers to actions or behaviors that are meant to be loving, helpful, or gentle in the moment, but end up causing long-term harm
+225.  to stay somewhere or do something for longer than usual - linger किसी जगह देर तक रुके रहना या कोई काम देर तक करते रहना
+226.  Deterrence is the act or process of discouraging an action—most commonly crime or military attack—by instilling a fear of negative consequences or punishment
+227.  deceit - dishonest behaviour; trying to make somebody believe something that is not true धोखाधड़ी चालबाज़ी बहकाने का प्रयास बहकावा फ़र्ज़ीवाड़ा
+228.  clutter - (n)things that are where they are not wanted or needed and make a place untidy अस्तव्यस्त रूप से बिखरी वस्तुएँ Who left all this clutter on the floor?
+      1.    (v) to cover or fill something with lots of objects in an untidy way बेढंगेपन से बहुत सारी वस्तुएँ फैला या डाल देना
+229.  Cynicism is an attitude or philosophy characterized by a general distrust of the integrity, motives, or intentions of other people, and a belief that human beings are primarily driven by self-interest and greed
+230.  An amicus curiae (Latin for "friend of the court") is an individual, organization, or expert who is not a direct party to a legal case but is allowed by the court to offer information, specialized expertise, or legal arguments that bear on the issues.
+231.  jurisdiction: legal power or authority; the area in which this power can be used क़ानूनी अधिकार न्यायाधिकार वह क्षेत्र जिस पर न्यायाधिकार लागू होता है अधिकार-क्षेत्र That question is outside the jurisdiction of this council.
+232.  Thereunder is a formal adverb meaning "under that" or "in accordance with that"
+233.  Untainted is an adjective that means not contaminated, spoiled, damaged, or affected by something bad, corrupt, or unpleasant
+234.  lethargic: बहुत थका कमज़ोर
+235.  inference: निष्कर्षण
+236.  coherence: स्पष्टता और सुबोधता

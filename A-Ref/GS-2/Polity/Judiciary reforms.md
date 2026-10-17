@@ -1,0 +1,11 @@
+### **Summary Review: Flaws vs. Improvements**
+
+| Flaws | Improvements |
+| --- | --- |
+| **Missed:** The core thematic demand — applying Constitutional Morality to balance Judicial Independence vs. Judicial Accountability. | Frame the central thesis: Independence protects the court from executive capture (*Art. 50*), while accountability (*RTI, open court, in-house inquiry*) prevents judicial oligarchy. |
+| **Missed:** Intellectual and historical origin of the doctrine. | Cite Dr. B.R. Ambedkar's 1948 Constituent Assembly address drawing upon George Grote's concept of constitutional morality as paramount administrative self-restraint. |
+| **Topic Deviation / Oversimplification:** Treated the question as general "Constitutional Morality vs. Religious Customs/Individual Rights" (*Navtej Johar, Joseph Shine, Sabarimala*). | Restrict general fundamental rights examples to one short sentence; redirect focus entirely to the governance of the judicial branch. |
+| **Missed:** Landmark judgment bringing the Supreme Court under the transparency regime. | Cite ***CPIO v. Subhash Chandra Agarwal (2019)*** (ruling that judicial independence is not compromised by transparency under the RTI Act). |
+| **Missed:** Concrete ethical codes regulating judicial behavior in office. | Cite the **Restatement of Values of Judicial Life (1997)** and the **Bangalore Principles of Judicial Conduct** regarding conflict of interest, asset disclosure, and judicial recusal. |
+| **Missed:** Institutional friction points where Constitutional Morality is urgently needed. | Analyze real controversies: opacity in Collegium deliberations, arbitrariness in the "Master of the Roster" bench allocations, and post-retirement political appointments. |
+| **Vague Solutions:** Relied on broad homilies like *"self-restraint"* and *"let societies cultivate practices"*.| Propose structural reforms: an independent National Judicial Oversight mechanism, codified bench-allotment guidelines, and cooling-off periods for post-retirement executive posts. |

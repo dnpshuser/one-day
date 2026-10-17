@@ -1,5 +1,17 @@
 # Cosntitutional Commission: NCSC, NCST: Enforcement Powers & Limitations: NCSC (Art. 338) & NCST (Art. 338A)
 
+## AWI
+
+| Flaws | Improvements |
+|---|---|
+| **Missed:** Foundational Supreme Court judgment limiting civil court powers under Articles 338(8) & 338A(8)[cite: 39]. | Cite ***All India Indian Overseas Bank v. UOI (1996)***, establishing that commission powers are limited to document summoning, with no authority to pass injunctions or enforceable decrees. |
+| **Missed:** Theoretical articulation of "Substantive Social Equality". | Define substantive equality as overcoming historical socio-economic deficits (affirmative action, land alienation, atrocity prevention) rather than mere paper parity. |
+| **Vague Identification of Appointment Flaw:** Stated members are appointed by executive without providing an institutional solution[cite: 40]. | Recommend an independent, bipartisan selection panel (PM, LoP, Speaker/CJI) akin to the Protection of Human Rights Act (NHRC) to prevent partisan appointments. |
+| **Missed:** Reality check on the "Mandatory Consultation" clause (Art. 338(9) / 338A(9))[cite: 39]. | State that executive policy bypassing of the commission goes unchecked because Article 338(9) lacks a self-executing constitutional invalidation mechanism. |
+| **Doctrinal Error in Solution:** Demanded direct punitive/criminal powers for an executive commission[cite: 40]. | Avoid violating separation of powers; instead recommend empowering commissions to lodge direct FIRs and appoint Special Public Prosecutors before SC/ST Special Courts. |
+| **Missed:** Autonomous investigation infrastructure deficit[cite: 40]. | Recommend establishing a dedicated, permanent investigation directorate under an IPS officer rather than relying on local police forces[cite: 40]. |
+
+
 ## 1. Intro
 
 * **Constitutional Mandate:** The NCSC under A-338 and the NCST under A-338A are apex constitutional bodies established to safeguard the socio-economic, educational, and political rights of marginalized communities.

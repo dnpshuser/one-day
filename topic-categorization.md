@@ -570,3 +570,31 @@ These topics are foundational sub-themes that UPSC rotates cyclically every two 
 
 * **Phase 2: Track Layer 2 as Dynamic Additions:** Integrate these 50 contemporary topics through editorials, legislative tracking (PRS), and Supreme Court Constitution Bench rulings over the next 12 months.
 * **Phase 3: Cycle Layer 3 for Value Addition:** Use the 35 rotational topics to develop high-scoring analytical breadth in mock answer writing, deploying these concepts as comparative examples or foundational theory anchors in Section-A questions.
+
+
+---
+
+# GS 3
+## Economy
+1. GST
+2. Inclusive Growth
+3. Employment | Skilling
+4. Depreciation of Rupee
+5. Financial Inclusion
+6. Potential GDP + S-I identification
+7. State of the Economy
+8. Methodological Changes
+9. Infrastructure - PPP(Investment)
+10. DPI
+11. UE Methodology
+12. CFIM
+13. IHDI vs HDI
+14. Fiscal S <-> Debt to GDP
+15. Gender Budget
+16. Energy -> Env
+17. Mfg Sector + PLI scheme
+18. Service Sector
+19. FDI
+20. Gig Economy
+21. MSMEs
+    

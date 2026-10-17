@@ -104,6 +104,7 @@ Waste
 Health
 Education
 Chief Election Commissioner and Other Election Commissioners Act, 2023
+Right to Die
 
 ---
 

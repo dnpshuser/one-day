@@ -4,7 +4,9 @@
 * Constitutional Morality refers to the adherence to the core principles and underlying spirit of the Constitution—such as liberty, equality, fraternity, and justice—rather than merely following its literal text.
 
 * It acts as a bulwark against majoritarianism, ensuring that the dignity of the individual is protected against popular orthodoxies and temporary shifts in public morality.
+
 * Cultivating this morality requires citizens and public authorities to display self-restraint, respect for democratic processes, and tolerance for dissenting views.
+
 * Constitutional morality is the moral architecture of the Constitution, understanding its underlying spirit, ethos, values (liberty, equality, fraternity, dignity), and institutional self-restraint beyond mere adherence to the strict letter of the Constitution.
 
 ## Sub-components of the topic [most imp]
@@ -84,8 +86,9 @@ Ambedkar introduced CM in the Assembly: warning that democracy in India was only
 
 ## 9. Diagram
 
-* **Diagram 2: Pillars of the Republic:** Draw a classical temple. The roof is labeled "The Indian Republic". The four massive pillars supporting it are "Liberty," "Equality," "Fraternity," and "Justice" (the preamble values). The strong foundation block upon which the pillars stand is labeled "Constitutional Morality."
-* **Diagram 3: The Balancing Scale of Justice:** Draw a traditional weighing scale. On the heavier, lower side, place a weight labeled "Individual Dignity & Fundamental Rights (Constitutional Morality)." On the lighter, higher side, place a larger, bulky weight labeled "Majoritarian Opinion & Tradition (Public Morality)." This illustrates that in the eyes of the Court, rights outweigh numbers.
+* **Diagram 2: Pillars of the Republic:** Draw a classical temple. The *roof is labeled "The Indian Republic".* The *four massive pillars* supporting it are *"Liberty," "Equality," "Fraternity," and "Justice"* (the preamble values). The strong foundation block upon which the pillars stand is labeled *"Constitutional Morality.*"
+
+* **Diagram 3: The Balancing Scale of Justice:** Draw a traditional weighing scale. On the heavier, lower side, place a weight labeled *"Individual Dignity & Fundamental Rights (Constitutional Morality)."* On the lighter, higher side, place a larger, bulky weight labeled *"Majoritarian Opinion & Tradition (Public Morality)*." This illustrates that in the eyes of the Court, rights outweigh numbers.
 
 ## 10. Flow chart
 
@@ -108,26 +111,48 @@ Ambedkar introduced CM in the Assembly: warning that democracy in India was only
 
 ## 11. Recent context/issues/debate
 
-* **Critique of Judicial Overreach:** "dangerous weapon" allowing unelected judges to strike down laws passed by the elected legislature based on their personal philosophies.
-* **Same-Sex Marriage (Supriyo v. Union of India):** SC recognized the CM of equal treatment and dignity for LGBTQ+ couples, but exercised judicial restraint, stating that changing the Special Marriage Act falls into the domain of the legislature, not the judiciary.
-* **The Electoral Bonds Verdict:** SC invoked the CM of democratic transparency and the voter's RTI, striking down a scheme that allowed anonymous corporate funding, regardless of the legislative majority that passed it.
-* **Federal Friction and the Governor's Role:** Ker, TN and Punjab: Governors withholding assent to bills indefinitely highlight a breakdown in CM. SC reminded Governors that they are bound by constitutional conventions, not political affiliations.
-* **Hate Speech and Fraternity:** hate speech and communal polarization is a direct assault on the CM of "Fraternity." The Supreme Court's recent *suo motu* directives to police to register FIRs against hate speech regardless of religion underscore the urgency of protecting this constitutional ethos.
+* **Critique of Judicial Overreach:** 
+  * "dangerous weapon" allowing unelected judges to strike down laws passed by the elected legislature based on their personal philosophies.
+
+* **Same-Sex Marriage (Supriyo v. Union of India):** 
+  * SC recognized the CM of equal treatment and dignity for LGBTQ+ couples, 
+  * but exercised judicial restraint, 
+  * stating that changing the Special Marriage Act falls into the domain of the legislature, not the judiciary.
+
+* **The Electoral Bonds Verdict:** 
+  * SC invoked the CM of democratic transparency and the voter's RTI, 
+  * striking down a scheme that allowed anonymous corporate funding, 
+  * regardless of the legislative majority that passed it.
+
+* **Federal Friction and the Governor's Role:** 
+  * Ker, TN and Punjab: Governors withholding assent to bills indefinitely highlight a breakdown in CM. 
+  * SC reminded Governors that they are bound by constitutional conventions, not political affiliations.
+
+* **Hate Speech and Fraternity:** 
+  * hate speech and communal polarization is a direct assault on the CM of "Fraternity." 
+  * The SC's recent *suo motu* directives to police to register FIRs against hate speech 
+  * regardless of religion underscore the urgency of protecting this constitutional ethos.
 
 ## Disadvantage/DeMerits/Challenges/Concerns
-1. Subjective and Amorphous: CM is a "dangerous weapon,"; without objective codification, CM could allow *judges to substitute their personal ideological preferences* for the text of the Constitution. - Former Attorney General K.K. Venugopal 
+1. Subjective and Amorphous: 
+   1. CM is a "dangerous weapon,"; without objective codification, 
+   2. CM could allow *judges to substitute their personal ideological preferences* for the text of the Constitution. - Former Attorney General K.K. Venugopal 
 
 2. Minority faiths and diverse sectarian traditions will lose protection.
 
-3. Counter-Majoritarian Tension: using constitutional morality to overhaul deep-seated internal religious practices of faith communities could dilute the freedom of religious denominations under Article 26. Justice Indu Malhotra(lone dissent in the Sabarimala case (2018))
+3. Counter-Majoritarian Tension: 
+   1. using constitutional morality to overhaul deep-seated internal religious practices of faith communities could dilute the freedom of religious denominations under Article 26. - Justice Indu Malhotra(lone dissent in the Sabarimala case (2018))
 
-4. Faith Transcends Rationality: 
-   1. Issues of deep religious faith and practice cannot be evaluated through the lens of judicial rationality or secular logic. 
-   2. What may seem irrational, archaic, or discriminatory to an outsider may be central to a believer’s faith.  
+4. Faith Transcends Rationality:
+   1. Issues of deep religious faith and practice cannot be evaluated through the lens of judicial rationality or secular logic.
+   2. What may seem irrational, archaic, or discriminatory to an outsider may be central to a believer’s faith.
 
-5. Protection of Group Autonomy (Article 26): Subjecting traditional rituals to individual equality claims under Article 14 renders collective religious autonomy meaningless under A-26(b)
+5. Protection of Group Autonomy (Article 26):
+   1. Subjecting traditional rituals to individual equality claims under Article 14 renders collective religious autonomy meaningless under A-26(b)
 
-6. Article 17 Inapplicability: The prohibition of untouchability under Article 17 was historically designed exclusively to eradicate caste-based discrimination and exclusion, and cannot be stretched to cover gender-based rare highly specific localised ritual prohibition.
+6. Article 17 Inapplicability: 
+   1. Discrimination masking Convention: Interfaring highly rare, localised and specific conventional practices in the name of Discrimination(A-14) is judicial overreach. 
+   2. The prohibition of untouchability under Article 17 was historically designed exclusively to eradicate caste-based discrimination and exclusion, and cannot be stretched to cover gender-based rare highly specific localised ritual prohibition.
 
 
 4. Risk of Majoritarian or Secular Homogenisation: if courts begin testing every religious belief against uniform secular ideals of equality:
@@ -145,5 +170,8 @@ Ambedkar introduced CM in the Assembly: warning that democracy in India was only
 
 ## 12. Conclusion
 
+* Eradicating the toxic nexus of political patronage and opacity requires elevating constitutional morality from a judicial concept to an everyday administrative reality.
+
 * Constitutional Morality is the invisible soul that animates the written text of the Constitution, transforming it from a mere legal document into an instrument of social revolution and emancipation.
+
 * While its interpretation requires judicial prudence to avoid overreach, it remains the ultimate safeguard for the marginalized, ensuring that India's democracy is governed by the rule of law and human dignity, rather than the transient whims of majoritarian public morality.
