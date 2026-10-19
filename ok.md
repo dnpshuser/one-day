@@ -14,3 +14,7 @@
 11. 1921 - grt div
 12. A-143
 13. Mission Drishti: 1st Opto Saar satellite in the world
+
+
+
+I need you to find some data/reports/indices on the topic that I'll share for UPSC Mains answer. Conditioning that the data must be accurate and authentic and latest. Verify the data with atleast two sources. You can go ahead and say you did not find any credible data on the topic but NEVER EVERY GIVE WRONG DATA. Wrong data is worse than not providing data. First topic is: "Vacancy rates in judicial appointments"

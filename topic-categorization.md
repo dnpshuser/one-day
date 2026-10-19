@@ -581,7 +581,7 @@ These topics are foundational sub-themes that UPSC rotates cyclically every two 
 3. Employment | Skilling
 4. Depreciation of Rupee
 5. Financial Inclusion
-6. Potential GDP + S-I identification
+6. Potential GDP + S-I identification 
 7. State of the Economy
 8. Methodological Changes
 9. Infrastructure - PPP(Investment)

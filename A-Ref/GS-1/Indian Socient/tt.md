@@ -36,3 +36,12 @@
 36. Endogamous is an adjective that describes the cultural, social, or biological practice of marrying or breeding exclusively within a specific group, such as a caste, tribe, religious denomination, clan, or ethnic community
 37. cleavage: Social and Political Cleavage: A historically rooted social, cultural, economic, or religious line that divides citizens into distinct groups with opposing interests
 38. Reification is the act of turning something abstract—such as an idea, a relation, or a feeling—into a concrete, physical thing
+39. contempt: the feeling that somebody/something does not deserve any respect or is without value यह भावना कि कोई व्यक्ति सम्मान का हक़दार नहीं है तथा उसका कोई महत्व नहीं है तिरस्कार अवज्ञा The teacher treated my question with contempt.
+40. solidarity - the support of one group of people for another, because they agree with their aims (उद्देश्यों की समानता के आधार पर) एक वर्ग का दूसरे वर्ग को समर्थन, दो वर्गों की एकजुटता: unity, harmony, accord, and consensus
+41. The term subaltern means lower in rank, subordinate, or a person pushed to the margins of society without political, economic, or social power
+42. Leverage simply means using a small amount of effort, money, or resources to produce a much bigger result or advantage. 
+43. cuddle: to hold somebody/something closely in your arms प्यार से बाँहों में थामना The little girl was cuddling her favourite doll.
+44. Familial atomization is the sociological and psychological process where traditional extended family networks and tight-knit community structures break down into isolated, self-reliant individuals or small, fragile nuclear units.
+45. knit is the process of making fabric or clothing by interlocking loops of yarn or thread using needles or a machine
+46. Entrenching is the present participle of the verb entrench, meaning to firmly establish an idea, habit, or position so that it is very difficult to change, or to surround/protect something with a defensive trench.
+47. Reification is the act of turning an abstract idea, concept, relation, or process into a concrete, physical thing.
