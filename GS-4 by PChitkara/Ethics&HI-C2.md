@@ -167,12 +167,10 @@ Each of these branches provides a different perspective on ethical reasoning and
 
 **Which ethical theory should guide moral decision-making?**
 
-```markdown
+
 | Deontology | Consequentialism | Virtue Ethics |
 | :--- | :--- | :--- |
 | Focus on duty and rules, regardless of consequences. | Emphasizes outcomes and benefits to the majority. | Centers on developing good character traits. |
-
-```
 
 ## 3. Descriptive Ethics (How People Actually Behave)
 

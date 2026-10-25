@@ -241,3 +241,21 @@
 234.  lethargic: बहुत थका कमज़ोर
 235.  inference: निष्कर्षण
 236.  coherence: स्पष्टता और सुबोधता
+237.  imminent: (usually used about something unpleasant) almost certain to happen very soon
+238.  A miscreant is a person who behaves badly, breaks rules, or commits an unlawful or unethical act
+239.  platitude: a remark or statement that has been made very often before and is therefore not interesting (कथन या उक्ति) विगत में अत्यधिक प्रयोग के कारण निरर्थक तथा उबाऊ पुरानी अनर्थक बातें नीरस उक्ति घिसी-पिटी बातें
+240.  Pathology is the scientific study of the origin, nature, and progression of disease
+241.  Polemical is an adjective that describes speech, writing, or communication which strongly attacks or defends a particular opinion, person, idea, or set of beliefs
+242.  palpable that is easily felt by the senses or the mind; that can be handled or touched
+243.  plenary (used about meetings, etc.) that should be attended by everyone who has the right to attend (बैठक, अधिवेशन आदि) जिसमें सभी अधिकार प्राप्त सदस्यों की उपस्थिति आवश्यक हो पूर्ण परिपूर्ण The new committee holds its first plenary session this week.
+244.  prejudice a strong unreasonable feeling of not liking or trusting somebody/something, especially when it is based on their race, religion or sex किस व्यक्ति या वस्तु के प्रति प्रबल नापसंदगी या अविश्वास, विशेषतः उसकी जाति, धर्म या लिंग के कारण पूर्वाग्रह a victim of racial prejudice; to influence somebody so that they have an unreasonable or unfair opinion about somebody/something किसी को (किसी व्यक्ति या वस्तु के प्रति) इस तरह प्रभावित करना कि उसके मन में व्यक्ति या वस्तु के प्रति असंगत या अनुचित धारणा बन जाए पूर्वाग्रहग्रस्त करना to have a harmful effect on somebody/something किसी व्यक्ति या वस्तु पर हानिकर प्रभाव होना
+245.  The word unvarnished means plain, straightforward, and honest without any attempt to soften, hide, or embellish the truth, or literally meaning an object (like wood or a floor) that has not been coated with varnish.
+246.  intimidating: डराने वाला धमकी भरा अभित्रासकीय
+247.  riddle : paheli
+248.  bogged down: stuck - not able to make any progress
+249.  Dissonance means a lack of harmony, agreement, or consistency between things like sounds, ideas, or behavior
+250.  dogma: a belief or set of beliefs that people are expected to accept as true without questioning निर्धारित सिद्घांत जिन्हें प्रश्न किए बिना स्वीकारना होता है
+251.  vice: criminal activities involving sex or drugs अपराधी कृत्य (यौन-संबंधों या नशीले पदार्थों के सेवन से संबंधित) दुराचा; a moral weakness or bad habit नैतिक दुर्बलता पापाचार या बुरी आदत व्यसन
+252.  perpetual: continuing for a long period of time without stopping लगातार लंबे समय तक बना रहने वाला अविरल शाश्वत; frequently repeated in a way which is annoying बार-बार घटित होने वाला (ऐसे कि परेशान करे)
+253.  empirical: based on experiments and practical experience, not on ideas (विचारों के स्थान पर) प्रयोगों और व्यावहारिक अनुभव पर आधारित
+254.  cynicism Cynicism is an attitude of scornful negativity and general distrust toward the integrity, sincerity, or professed motives of other people and institutions. दोषदर्शिता
