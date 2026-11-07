@@ -74,3 +74,6 @@
 74. Hypertrophy is an increase in the size of individual cells, which leads to an enlargement of tissues or organs. It is different from hyperplasia, which is an increase in the number of cells.
 75. The Blue-Green Transfer of Development Rights (TDR) mechanism is an innovative urban planning tool designed to conserve natural ecosystems by channeling real estate development away from sensitive zones into high-growth areas
 76. Cascades most commonly refers to a series of small, shallow waterfalls or a process where things happen in a rapid, connected sequence
+77. Recumbent means lying down, reclining, or leaning back in a position of rest or comfort.
+78. Isostatic rebound (also known as post-glacial rebound or glacial isostatic adjustment) is the slow upward movement of Earth's crust after the heavy weight of ice sheets from an ice age melts away
+79. Fennoscandia is a geographical region in Northern Europe that includes the Scandinavian Peninsula, mainland Finland, Karelia, and the Kola Peninsula

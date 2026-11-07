@@ -38,7 +38,8 @@
    1. What are the key indicators ?
 2. Judiciary
    1. Structural Reforms
-3. Form 6 - ECI procedure to remove names
+3. Form 6, 7 - ECI procedure to remove names
+4. AI Data centeres - power grid under pressure: What all problems it brings
 
 > P1
 1. River interlinkage damage
@@ -68,7 +69,16 @@
 2. A total of 11 languages have been granted the status of classical languages.
 3. Leprosy, also known as Hansen's disease, is a chronic, curable infection caused by slow-growing bacteria called `Mycobacterium leprae or Mycobacterium lepromatosis`
 4. Buxa was declared a Tiger Reserve in 1983.
+5. Kochi Trojan horse by Childlight Global Child Safety Institute, a data institute hosted by the University of Edinburgh
+6. Sec 163 BNSS = Sec 144 of CrPC
+7. Ytterbium - precise atomic clock: 1 sec in 23 billion years
+8. 2026 Nobel Prize in Chemistry has been awarded to *Henri Kagan and Kenso Soai* for showing that it is possible to amplify a molecule's "handedness" and direct it in a way that it can be used to produce pharmaceutical products of a very high purity
+9. 2026 Nobel Prize in Physiology or Medicine went jointly to *Karl Deisseroth, Peter Hegemann, and Georg Nagel* "for their discoveries concerning light-gated ion channels and optogenetics."
+10. Belgian-American physicist Francis *Halzen* has won the physics Nobel Prize for 2026 for helping build the IceCube observatory in Antarctica. IceCube uses thousands of sensors buried deep in the ice to detect subatomic particles called neutrinos
+11. Navi Pillay, a South African-born jurist and former UN human rights chief, won the Nobel Peace Prize on Friday for her efforts to promote international law as it comes under attack.
 
+## Understanding
+1. Mass detention of Delhi Protesters - UNHRCommissioner calls for immediate release of all those detained arbitrarily
 
 ## Curious Me
 1. Gujarat Water Governance Model
